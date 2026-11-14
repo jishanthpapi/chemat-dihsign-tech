@@ -1,0 +1,13 @@
+{
+  "sources": [
+    {
+      "name": "DT_Complete_Rulebook.pdf",
+      "sha256": "f517dc3b1822c73e161e22b2ef96a871b7b5d3c3d0f17d9a4df49e261943190a"
+    },
+    {
+      "name": "DT_Card_Table (1).xlsx",
+      "sha256": "fa5be08f732d6a5f7c55db375f52da7d5cee37c9b4c20e0d3d258139b4c0e0a5"
+    }
+  ],
+  "pdf_pages": 27
+}

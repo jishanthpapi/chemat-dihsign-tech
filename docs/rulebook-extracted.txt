@@ -1,0 +1,1267 @@
+--- PAGE 1 ---
+CHEMa’t™  |  Complete game rulebook
+1
+ CHEMa’t™
+ THE COMPLETE RULEBOOK
+ Chemistry. Strategy. A little fiesta.
+PLAYERS
+TARGET
+CURRENCY
+2-4
+10 points
+Pesos
+ Collect reactants and apparatus, complete secret chemistry tasks, and race for your
+ finishing position.
+Final decisions preserved
+One compound per Reaction Phase. Chaos is undefendable. Debts must be repaid before exit, with score frozen at 10.
+Double Reaction mini-rounds follow the shared Reaction Phase.
+Based on the complete rules supplied by the game creator. Unresolved design details are explicitly listed in section 25.
+Recipes describe card requirements, not laboratory procedures.
+
+
+--- PAGE 2 ---
+CHEMa’t™  |  Complete game rulebook
+2
+Find your fiesta
+Sections 1-4 / pages 3-6
+Game Components / Objective and Winning / Game Setup / Normal Rounds
+Sections 5-9 / pages 7-9
+Pesos and the Central Bank / Buying Cards / Personal Piggy Banks / Trading and Gifts / Loans
+Sections 10-12 / pages 10-12
+Task Cards / Creating Compounds / Action Cards - General Rules
+Sections 13-17 / pages 13-17
+Good Action Cards - 8 Types, 19 Cards / Attack Action Cards - 8 Types, 18 Cards / Defence Action Cards - 5 Types, 11
+Cards / Attack and Defence Interactions / Chaos Action Cards - 8 Types, 16 Cards
+Sections 18-19 / pages 18-19
+Double Reaction - Complete Rules / Decks, Discard Piles and Card Availability
+Sections 20-23 / pages 20-25
+Reactant Cards - 82 Total / Apparatus Cards - 30 Total / Task Cards and Compound Recipes - 35 Total / Action Card
+Quantity Summary
+Sections 24-25 / pages 26-27
+Consolidated Important Rules / Details Not Yet Explicitly Defined
+ROUND FLOW
+WHAT HAPPENS
+1. Regular turns
+Roll for pesos; buy, trade, bank and queue Action Cards.
+2. Action Resolution
+Defence first, then Attack, then Good/Chaos. Keep play order within each group.
+3. Shared Reaction Phase
+At most one compound per active player, in normal order.
+4. Double Reaction mini-rounds
+Each eligible player takes all awarded mini-rounds consecutively.
+
+
+--- PAGE 3 ---
+CHEMa’t™  |  Complete game rulebook
+3
+01 Game Components
+• CHEMa’t™ uses:
+ 
+Reactant Cards
+Apparatus Cards
+Action Cards
+Task Cards (showing compounds to create)
+A standard six-sided die
+Peso coins or tokens
+One personal piggy bank per player
+One shared central bank
+A way to track each player's score
+Separate draw and discard piles for each card type
+Card deck sizes
+• Reactant Cards: 82 cards, 29 types
+ 
+• Apparatus Cards: 30 cards, 7 types
+ 
+• Task Cards: 35 cards, featuring 20 different compounds
+ 
+• Action Cards: 64 cards, featuring 29 different actions
+ 
+• Total: 211 cards.
+ 
+• Important card-count correction: An earlier draft stated that there were 62 Action Cards. However, the previously agreed
+ individual Action Card quantities add up to 64, not 62. This list preserves those individual quantities.
+
+
+--- PAGE 4 ---
+CHEMa’t™  |  Complete game rulebook
+4
+02 Objective and Winning
+• The goal is to reach 10 points by successfully completing compounds shown on your Task Cards.
+ 
+• Compound difficulty determines points:
+ 
+• Easy: 1 point
+ 
+• Medium: 3 points
+ 
+• Hard: 5 points
+ 
+• The first player to reach at least 10 points secures first place.
+ 
+• Remaining players continue competing for second, third, and fourth place.
+ 
+• Players continue until only one player remains without a secured finishing position.
+ 
+• If several players reach 10 points during the same Reaction Phase, the player who reaches it first in the normal Reaction
+ Phase turn order receives the higher placement.
+• A player who reaches 10 points normally stops playing immediately.
+ 
+• That player discards all remaining cards into the appropriate discard piles and returns all their pesos, including
+ piggy-bank savings, to the central bank.
+• Any unused Double Reaction opportunities are forfeited when the player leaves.
+ 
+Winning with outstanding loans
+• A player who reaches 10 points while owing a loan cannot leave the game yet.
+ 
+• Their finishing position is secured immediately.
+ 
+• Their score freezes at 10 points.
+ 
+• They must continue playing until all outstanding loans and overdue penalties are fully repaid.
+ 
+• They may continue rolling for pesos, buying cards, trading, banking, and playing Action Cards.
+ 
+• They may also create compounds voluntarily, but these compounds earn zero additional points.
+ 
+• These compounds still require all necessary cards and the normal creation fee.
+ 
+• Once every debt is repaid, the player officially exits and returns remaining resources according to the normal exit rules.
+ 
+
+--- PAGE 5 ---
+CHEMa’t™  |  Complete game rulebook
+5
+03 Game Setup
+• Place the shared central bank in the middle of the playing area.
+ 
+• Give every player an empty personal piggy bank.
+ 
+• Separate the Reactant, Apparatus, Action, and Task Cards into their respective decks.
+ 
+• Shuffle each deck separately.
+ 
+• Place each deck face down.
+ 
+• Make space for a separate face-up discard pile beside each deck.
+ 
+• Randomly choose the first player.
+ 
+• Determine the initial player turn order.
+ 
+• Every player starts with 0 pesos.
+ 
+• Each player rolls the six-sided die once and receives that number of pesos from the central bank.
+ 
+• Shuffle the Task deck.
+ 
+• All players close their eyes and take one random Task Card each.
+ 
+• Players privately inspect their Task Cards.
+ 
+• Remaining Task Cards form the face-down Task draw pile.
+ 
+• Each player starts with one active Task Card.
+ 
+• The game begins with the first player's regular turn.
+ 
+
+--- PAGE 6 ---
+CHEMa’t™  |  Complete game rulebook
+6
+04 Normal Rounds
+• Each shared round consists of three stages.
+ 
+Stage 1 - Regular Turns
+• Every active player gets one regular turn in the established player order.
+ 
+• At the beginning of their turn, the player rolls the die.
+ 
+• They receive the rolled number of pesos from the central bank.
+ 
+• They may buy cards, trade, bank money, and play Action Cards.
+ 
+• They may perform as many affordable permitted actions as they want.
+ 
+• They may end their turn whenever they wish.
+ 
+• Players may also end their turns without buying or playing anything.
+ 
+• Action Cards played during regular turns have their effects queued until the Action Resolution stage.
+ 
+• Creating compounds is not allowed during regular turns.
+ 
+Stage 2 - Action Resolution
+• After all players finish their regular turns, resolve pending Action Card effects.
+ 
+• Resolve Defence Cards first, preserving their original play order.
+ 
+• Resolve Attack Cards next, preserving their original play order.
+ 
+• Resolve Good and Chaos Cards afterward, preserving their original play order within this combined group.
+ 
+• Resolve applicable redirections, protections, and other interactions according to the Defence rules.
+ 
+• If an Action Card cannot successfully produce its effect, that effect fails.
+ 
+• No Action Card playing fee is ever refunded, even if the effect fails.
+ 
+Stage 3 - Reaction Phase
+• After all pending Action Card effects have resolved, the shared Reaction Phase begins.
+ 
+• Players receive their Reaction Phase opportunities in normal player turn order.
+ 
+• Each player may successfully create a maximum of one compound per Reaction Phase.
+ 
+• Players may only create the compound shown on their own active Task Card.
+ 
+• Players must have every required Reactant and Apparatus Card and enough pesos for the creation fee.
+ 
+• A player may instead keep their task for a later round or voluntarily replace it according to the Task replacement rules.
+ 
+• The Reaction Phase ends after every active player has finished their opportunity.
+ 
+• After the shared Reaction Phase ends, resolve any Double Reaction mini-rounds awarded for that round.
+ 
+• Once those mini-rounds are finished, the next shared round begins.
+ 
+
+--- PAGE 7 ---
+CHEMa’t™  |  Complete game rulebook
+7
+05 Pesos and the Central Bank
+• Pesos are the game's currency.
+ 
+• Each player starts with the number of pesos rolled during setup.
+ 
+• Players roll the six-sided die at the beginning of every regular turn and gain that number of pesos.
+ 
+• The same income roll applies to extra regular turns awarded by Double Reaction.
+ 
+• Pesos used to buy cards are paid to the shared central bank.
+ 
+• Pesos used to play Action Cards are paid to the central bank.
+ 
+• Pesos used for compound-creation fees are paid to the central bank.
+ 
+• There is no general limit on how many pesos a player may hold.
+ 
+• Pesos can be traded, gifted, loaned, or deposited into personal piggy banks.
+ 
+06 Buying Cards
+• Cards may be purchased during regular turns only.
+ 
+• Players may buy as many cards as they can afford.
+ 
+• The cost of one Reactant Card is 1 peso.
+ 
+• The cost of one Apparatus Card is 1 peso.
+ 
+• The cost of one Action Card is 2 pesos.
+ 
+• Players buy the top face-down card of the appropriate deck.
+ 
+• Players cannot look through a draw deck to select a specific card.
+ 
+• Purchased cards go into the player's hand.
+ 
+• Newly purchased Action Cards can be played during the same regular turn.
+ 
+• Buying an Action Card and playing it are separate payments.
+ 
+• Task Cards cannot be purchased.
+ 
+• Cards cannot be purchased during Reaction Phases.
+ 
+
+--- PAGE 8 ---
+CHEMa’t™  |  Complete game rulebook
+8
+07 Personal Piggy Banks
+• Every player has one personal piggy bank.
+ 
+• A player may deposit any amount of pesos.
+ 
+• There is no maximum amount of piggy-bank savings.
+ 
+• Every deposit costs a flat 1-peso fee, regardless of the amount deposited.
+ 
+• The fee must be paid from pesos available outside the piggy bank.
+ 
+• If the player cannot pay the fee, they cannot make the deposit.
+ 
+• Withdrawals are free.
+ 
+• A player may withdraw as much of their own saved money as they want.
+ 
+• Banking is permitted during regular turns, including other players' turns.
+ 
+• Banking is permitted before any player begins creating a compound during the shared Reaction Phase.
+ 
+• Once the first player begins compound creation, banking is closed for the remainder of that shared Reaction Phase.
+ 
+• Banking is allowed during Double Reaction mini-rounds, subject to the same restrictions.
+ 
+• Money in the piggy bank may be withdrawn to pay for cards, actions, trades, or loans when banking is permitted.
+ 
+• When a player officially exits the game, all remaining piggy-bank money returns to the central bank.
+ 
+
+--- PAGE 9 ---
+CHEMa’t™  |  Complete game rulebook
+9
+08 Trading and Gifts
+• Players may trade Reactant Cards, Apparatus Cards, Action Cards, and pesos.
+ 
+• Any combination of eligible cards and pesos may be exchanged.
+ 
+• Players may negotiate the terms of their trades.
+ 
+• A trade must be mutually agreed upon.
+ 
+• Once both parties agree and complete a trade, it is binding.
+ 
+• Task Cards cannot be traded.
+ 
+• Players may trade away cards for pesos.
+ 
+• Players may gift cards or pesos without receiving anything in return.
+ 
+• Trades may happen during a player's regular turn or during another player's regular turn.
+ 
+• During a shared Reaction Phase, trading is allowed only before the first player begins creating compounds.
+ 
+• Once compound creation begins, no more trading is permitted during that shared Reaction Phase.
+ 
+• During Double Reaction mini-rounds, only the player taking the extra regular turn is allowed to trade; another player may
+ participate as the other party to that trade.
+• Trades must follow all banking restrictions.
+ 
+• If a card needed for a Task is traded away or stolen, the affected player must obtain another copy before completing the
+ Task.
+• There is no hand-size limit.
+ 
+• Players may possess multiple copies of the same card.
+ 
+09 Loans
+• Players may lend pesos or eligible cards to other players.
+ 
+• Both parties must agree to the loan.
+ 
+• They must agree on the amount or resources borrowed.
+ 
+• They must agree on a fixed number of shared rounds within which repayment must occur.
+ 
+• The borrower is responsible for repaying the loan under the agreed terms.
+ 
+• Only completed shared rounds count toward repayment deadlines.
+ 
+• Double Reaction mini-rounds do not count as additional rounds for repayment deadlines.
+ 
+• If repayment is not completed by the deadline, the borrower owes an additional 2 pesos per overdue shared round.
+ 
+• Overdue penalties continue accumulating while the loan remains overdue.
+ 
+• Players may repay loans during permitted trading or banking windows.
+ 
+• Loan obligations are not cancelled simply because a player reaches 10 points.
+ 
+• A player with unpaid debts must remain in the game after reaching 10 points.
+ 
+• Their score remains frozen at 10.
+ 
+• They may continue normal economic gameplay to repay their debt.
+ 
+• They cannot officially exit until all outstanding loans and penalties are settled.
+ 
+
+--- PAGE 10 ---
+CHEMa’t™  |  Complete game rulebook
+10
+10 Task Cards
+• Task Cards represent the compounds players must create.
+ 
+• Each player has exactly one active Task Card at a time.
+ 
+• Task Cards are normally kept secret.
+ 
+• Players may voluntarily reveal their own Task Cards.
+ 
+• Players may also lie about which compound they are trying to create.
+ 
+• Other players cannot force a player to reveal their Task Card.
+ 
+• Task Cards cannot be traded or stolen.
+ 
+• A player may only create the compound shown on their active Task Card.
+ 
+• Players cannot create a different compound for points.
+ 
+• Each Task Card may be completed only once.
+ 
+• When a Task is successfully completed, the player earns the appropriate points.
+ 
+• The completed Task Card goes into the Task discard pile.
+ 
+• The player draws a new Task Card at the end of their Reaction Phase turn.
+ 
+• Because players are limited to one successful compound per Reaction Phase, a new Task cannot be completed until a
+ later Reaction Phase.
+• If a player cannot complete their Task, they retain it for a future round.
+ 
+Voluntary Task replacement
+• Players may voluntarily replace their Task Card during their Reaction Phase opportunity.
+ 
+• Voluntary replacement is not allowed during regular turns.
+ 
+• The first voluntary replacement costs 20 pesos.
+ 
+• Each later voluntary replacement costs 5 pesos more than the previous one.
+ 
+• The costs are therefore 20, 25, 30, 35 pesos, and so on.
+ 
+• The replacement count does not reset after successfully completing a Task Card.
+ 
+• The old Task Card is placed in the Task discard pile.
+ 
+• The player immediately draws a new Task Card.
+ 
+• The replacement Task Card cannot be completed during that same Reaction Phase.
+ 
+• The player must wait until the next Reaction Phase.
+ 
+• Replacing a Task Card does not discard any held Reactant or Apparatus Cards.
+ 
+• The same replacement rules and fees apply during personal Double Reaction Reaction Phases.
+ 
+
+--- PAGE 11 ---
+CHEMa’t™  |  Complete game rulebook
+11
+11 Creating Compounds
+• Compounds may be created only during Reaction Phases.
+ 
+• The player must have the active Task Card for the compound.
+ 
+• The player must have every Reactant Card listed on that Task.
+ 
+• The player must have every Apparatus Card listed on that Task.
+ 
+• Each listed reactant name requires one card, regardless of the coefficients in a real balanced chemical equation.
+ 
+• The player must pay the compound-creation fee.
+ 
+• The creation fee is 5 pesos plus 1 peso for each required Reactant Card and 1 peso for each required Apparatus Card.
+ 
+• The fee is paid to the central bank.
+ 
+• The required Reactant Cards are consumed and placed in the Reactant discard pile.
+ 
+• The required Apparatus Cards are also consumed and placed in the Apparatus discard pile.
+ 
+• Apparatus cannot be reused after creating a compound unless the player obtains another copy.
+ 
+• The successfully completed Task Card goes into the Task discard pile.
+ 
+• The player receives the points corresponding to its difficulty, subject to Double Yield or the frozen-score rule.
+ 
+• The player draws a replacement Task Card at the end of their Reaction Phase turn.
+ 
+• A player may successfully create only one compound in each Reaction Phase.
+ 
+• A personal Double Reaction Reaction Phase gives that player a separate opportunity to create one compound.
+ 
+• If the player lacks the required cards or money, they cannot create the compound.
+ 
+• Real laboratory quantities and procedures are not needed: recipes are game-card requirements.
+ 
+Example
+• To make Calcium carbonate:
+ 
+• Calcium chloride: 1 Reactant Card
+ 
+• Sodium carbonate: 1 Reactant Card
+ 
+• Beaker: 1 Apparatus Card
+ 
+• Stirring rod: 1 Apparatus Card
+ 
+• Creation fee: 5 + 2 reactants + 2 apparatus = 9 pesos
+ 
+• Reward: 1 point, unless a multiplier applies
+ 
+
+--- PAGE 12 ---
+CHEMa’t™  |  Complete game rulebook
+12
+12 Action Cards - General Rules
+• All Action Cards cost 2 pesos to buy.
+ 
+• Playing an Action Card costs an additional 2 pesos.
+ 
+• Buying and playing one Action Card in the same turn therefore costs 4 pesos total.
+ 
+• Action Cards may be played only during regular turns.
+ 
+• Action Cards cannot be played during Reaction Phases.
+ 
+• Players may play multiple Action Cards in one regular turn.
+ 
+• Players may play multiple copies of the same Action Card.
+ 
+• Action Cards can be played during the regular turn in which they were purchased.
+ 
+• Action Card effects normally remain pending until the Action Resolution stage.
+ 
+• Defence effects resolve before Attack effects.
+ 
+• Good and Chaos effects resolve after attacks.
+ 
+• Original play order is preserved within the established resolution groups.
+ 
+• An Action Card that cannot produce its effect simply fails.
+ 
+• Playing fees are never refunded.
+ 
+• Once an Action Card has resolved or expired, it goes into the Action discard pile, unless its effect requires a different
+ handling.
+• Action Cards cannot affect a player's Task Card unless a specifically agreed rule explicitly permits it. No current Action
+ Card permits this.
+
+
+--- PAGE 13 ---
+CHEMa’t™  |  Complete game rulebook
+13
+13 Good Action Cards - 8 Types, 19 Cards
+Action / copies
+Effect
+Quick Experiment / 3
+Draw 2 Reactant Cards.
+Perfect Match / 2
+Take 1 Reactant Card of your choice from the Reactant discard pile. If the discard pile is
+empty, the effect fails.
+Extra Equipment / 3
+Draw 1 Apparatus Card from the Apparatus deck.
+Chemical Discovery / 2
+Draw 3 Reactant Cards, then discard 1 Reactant Card.
+Double Yield / 2
+Double the points for the next compound successfully created during the current shared
+Reaction Phase. The effect expires if no compound is completed in that phase.
+Lucky Reaction / 3
+Draw 1 random card from a chosen Reactant, Apparatus, or Action deck. Task Cards are
+excluded.
+Lab Upgrade / 2
+Take 1 Apparatus Card of your choice from the Apparatus discard pile. If that pile is empty,
+the effect fails.
+Research Breakthrough / 2
+Look at the top 5 Reactant Cards, keep 2, and place the other 3 in the Reactant discard
+pile.
+Double Yield stacking
+Multiple Double Yield cards can stack.
+ 
+One Double Yield gives ×2 points.
+ 
+Two give ×4 points.
+ 
+Three give ×8 points.
+ 
+All active multipliers apply to the player's next eligible compound in that Reaction Phase.
+ 
+Any unused Double Yield effects expire when that Reaction Phase ends.
+ 
+A player cannot carry Double Yield forward into a later round.
+ 
+Double Yield cannot increase a player's score after it has been frozen at 10 points.
+ 
+
+--- PAGE 14 ---
+CHEMa’t™  |  Complete game rulebook
+14
+14 Attack Action Cards - 8 Types, 18 Cards
+Action / copies
+Effect
+Card Heist / 3
+Steal 2 random eligible cards from a chosen player.
+Reactant Raid / 2
+Steal 1 Reactant Card of your choice from another player.
+Equipment Theft / 2
+Steal 1 Apparatus Card from another player.
+Contamination! / 2
+Choose a player who must discard 2 Reactant Cards of their choice.
+Lab Lockdown / 2
+Choose a player who cannot create a compound during the current round's upcoming
+shared Reaction Phase.
+Failed Experiment / 3
+Choose a player who must discard 1 random eligible card.
+Supply Shortage / 2
+Every other player must discard 1 Reactant Card.
+Stolen Research / 2
+Take 1 random Action Card from another player.
+Attack-specific rules
+Random eligible cards include Reactant, Apparatus, and Action Cards.
+ 
+Task Cards are never eligible.
+ 
+Unless an effect specifies random selection, the affected player chooses which cards to discard.
+ 
+If a target does not have the needed cards, apply only what is possible under the specific card's rules; an impossible effect
+ has no effect.
+Attack Cards may be cancelled, redirected, or reduced by applicable Defence Cards.
+ 
+A player who has no eligible cards cannot lose a nonexistent card.
+ 
+Attack play fees are never refunded.
+ 
+
+--- PAGE 15 ---
+CHEMa’t™  |  Complete game rulebook
+15
+15 Defence Action Cards - 5 Types, 11 Cards
+Action / copies
+Effect
+Safety Goggles / 3
+Cancel the first eligible attack against you during the round's attack resolution. Once an
+attack is blocked, Safety Goggles is consumed. If no eligible attack occurs in that round, the
+protection expires.
+Secure Storage / 2
+Prevent theft of your Reactant, Apparatus, and Action Cards for the remainder of the
+current round and until your next regular turn begins. It does not prevent forced discards.
+Emergency Backup / 2
+Save one card of your choice that would otherwise be lost due to an opponent's Attack
+Action Card. It expires after saving one card or at the end of the round.
+Counter-Reaction / 2
+Redirect an Attack Card effect targeting you to a player other than yourself. The redirected
+target may be the original attacker.
+Lab Insurance / 2
+If an opponent's Attack Action Card causes you to actually lose 2 or more cards after
+applicable defences, draw 2 replacement Reactant Cards. It triggers once at most, and
+otherwise expires at the end of the round.
+General Defence rules
+Defence Cards resolve before Attack Cards, regardless of the order they were played.
+ 
+Multiple Defence Cards may be active simultaneously.
+ 
+Defences operate according to their specific conditions.
+ 
+When several attacks are pending, Safety Goggles cancels the first eligible attack in resolution order.
+ 
+A card blocked by Secure Storage is not considered stolen.
+ 
+If Secure Storage completely prevents a theft, Emergency Backup does not activate for that theft.
+ 
+Safety Goggles is not consumed by a theft already completely prevented by Secure Storage.
+ 
+Emergency Backup's owner chooses which affected card to save.
+ 
+Lab Insurance checks the number of cards actually lost after all protective effects.
+ 
+Losing only 1 card does not activate Lab Insurance.
+ 
+If Emergency Backup reduces a 2-card loss to 1 card, Lab Insurance does not activate.
+ 
+Paying for an unused Defence Card does not earn a refund.
+ 
+No Defence Card can protect against a Chaos Card.
+ 
+
+--- PAGE 16 ---
+CHEMa’t™  |  Complete game rulebook
+16
+16 Attack and Defence Interactions
+• Safety Goggles vs. Card Heist: Safety Goggles cancels Card Heist against its owner if it is the first eligible attack.
+ 
+• Secure Storage vs. Card Heist: Secure Storage blocks the theft; the attacker receives no refund.
+ 
+• Safety Goggles + Secure Storage: Secure Storage handles card theft first. If it completely blocks the theft, Safety
+ Goggles stays unused and available against a later eligible attack.
+• Emergency Backup vs. Card Heist: If 2 cards are selected to be stolen, the victim chooses 1 to keep; the remaining card
+ is stolen.
+• Lab Insurance + Emergency Backup: Lab Insurance checks actual losses after Emergency Backup. If only 1 card is lost,
+ Lab Insurance does not trigger.
+• Counter-Reaction vs. theft: The attack can be redirected to another player.
+ 
+• Counter-Reaction vs. Secure Storage: If the final target has Secure Storage and the redirected effect is card theft, Secure
+ Storage blocks it.
+• Counter-Reaction vs. Safety Goggles: Unused Safety Goggles on the final target can cancel the redirected attack if it is
+ the next eligible attack.
+• Supply Shortage vs. Secure Storage: Secure Storage does not prevent forced discards.
+ 
+• Supply Shortage vs. Safety Goggles: Safety Goggles protects its owner from their portion of Supply Shortage. The other
+ affected players still discard normally.
+• Supply Shortage vs. Emergency Backup: Emergency Backup may save 1 Reactant Card that would otherwise be
+ discarded.
+• Supply Shortage vs. Counter-Reaction: An affected player may redirect their individual discard effect to another player.
+ 
+• If the new target was already affected by Supply Shortage, they can be required to discard 2 Reactant Cards total.
+ 
+• Supply Shortage vs. Lab Insurance: If a player actually loses 2 Reactant Cards after applicable defences, Lab Insurance
+ activates and they draw 2 replacement Reactant Cards.
+• Multiple Counter-Reactions may redirect the same pending attack in sequence.
+ 
+• Only the final target receives the redirected effect, except for the original independent effects of an area attack such as
+ Supply Shortage.
+• An attack that is successfully cancelled or otherwise cannot affect its final target produces no effect against that target.
+ 
+• No cancelled or failed Action Card earns its playing fee back.
+ 
+
+--- PAGE 17 ---
+CHEMa’t™  |  Complete game rulebook
+17
+17 Chaos Action Cards - 8 Types, 16 Cards
+Action / copies
+Effect
+Chemical Spill / 2
+Every player discards 1 random Reactant Card.
+Market Swap / 2
+Exchange up to 2 cards you choose with up to 2 random eligible cards from another player.
+Equipment Recall / 2
+Every player returns 1 Apparatus Card to the Apparatus discard pile. Players without
+apparatus return nothing.
+Formula Shuffle / 2
+Every player passes 1 random eligible card to the player on their left. With only 2 players,
+each passes 1 random card to the other.
+Double Reaction / 2
+Gain one extra mini-round after the current shared Reaction Phase finishes.
+Unexpected Catalyst / 2
+Choose another player. You and that player each draw 2 Reactant Cards.
+Mass Production / 2
+Every other player draws 1 Reactant Card. You draw 3 instead.
+Experiment Reversal / 2
+Reverse the player turn order beginning with the next shared round.
+Chaos-specific rules
+Chaos Cards cannot be defended against.
+ 
+Safety Goggles cannot cancel Chaos effects.
+ 
+Secure Storage cannot prevent Chaos effects.
+ 
+Emergency Backup cannot save cards lost through Chaos effects.
+ 
+Counter-Reaction cannot redirect Chaos effects.
+ 
+Lab Insurance does not trigger from Chaos-related card losses.
+ 
+Chaos effects still follow general card-availability restrictions.
+ 
+If an eligible card is unavailable, that part of the effect cannot be performed.
+ 
+Chaos Cards normally resolve in original play order within the combined Good/Chaos resolution group.
+ 
+Market Swap details
+The person playing Market Swap chooses which of their cards they will give away.
+ 
+Cards taken from the other player are selected randomly.
+ 
+Reactant, Apparatus, and Action Cards are eligible.
+ 
+Task Cards are not eligible.
+ 
+A player with fewer than 2 available cards may still participate.
+ 
+Exchange as many cards as both participants can provide, up to 2 each.
+ 
+If either participant has no eligible cards, no exchange can occur.
+ 
+
+--- PAGE 18 ---
+CHEMa’t™  |  Complete game rulebook
+18
+18 Double Reaction - Complete Rules
+• Double Reaction is a Chaos Action Card.
+ 
+• Playing it costs 2 pesos, in addition to its 2-peso purchase cost.
+ 
+• Its effect is resolved under normal Action Card timing.
+ 
+• It grants the player one extra mini-round after the current shared Reaction Phase finishes.
+ 
+• A mini-round consists of:
+ 
+• One extra regular turn.
+ 
+• One personal Reaction Phase.
+ 
+• During the extra regular turn, the player rolls the die and collects pesos.
+ 
+• They may buy cards, bank pesos, trade, and play Action Cards.
+ 
+• Only the extra-turn player may initiate trading during their mini-round.
+ 
+• During the personal Reaction Phase, only that player can create a compound.
+ 
+• The player may create a maximum of one compound in that personal Reaction Phase.
+ 
+• Their compound must match their current Task Card.
+ 
+• All normal creation costs apply.
+ 
+• Banking and Task replacement are permitted under the normal timing rules.
+ 
+• A player may hold and play multiple Double Reaction cards.
+ 
+• Every successfully resolved Double Reaction grants a separate mini-round.
+ 
+• When multiple players earn mini-rounds during the same shared round, resolve them in normal player order.
+ 
+• Each eligible player completes all their awarded mini-rounds consecutively before the next eligible player starts theirs.
+ 
+• Mini-rounds do not count as full shared rounds for loan repayment deadlines.
+ 
+• Action Cards played during mini-rounds are not resolved immediately.
+ 
+• Those Action Cards remain pending until the Action Resolution stage of the next full shared round.
+ 
+• Consequently, an Action Card played during an extra regular turn does not affect that mini-round's immediately following
+ personal Reaction Phase.
+• If Double Reaction itself is played during a mini-round, its effect resolves at the end of the next shared regular-turn stage.
+ 
+• The newly awarded mini-round then occurs after the next shared Reaction Phase, not immediately.
+ 
+• After all scheduled mini-rounds finish, normal shared-round play resumes.
+ 
+• A player who officially exits after reaching 10 points forfeits unused mini-rounds.
+ 
+Example
+• If player order is A > B > C > D, Player B earns 3 Double Reactions, and Player D earns 2:
+ 
+• Complete the current shared Reaction Phase.
+ 
+• Player B takes mini-round 1: regular turn and personal Reaction Phase.
+ 
+• Player B takes mini-round 2.
+ 
+• Player B takes mini-round 3.
+ 
+• Player D takes mini-round 1.
+ 
+• Player D takes mini-round 2.
+ 
+• Begin the next shared round.
+ 
+• Any Action Cards played during these mini-rounds remain pending until the next shared round's Action Resolution stage.
+ 
+
+--- PAGE 19 ---
+CHEMa’t™  |  Complete game rulebook
+19
+19 Decks, Discard Piles and Card Availability
+• Every card type has its own draw deck and discard pile.
+ 
+• Draw decks are face down.
+ 
+• Discard piles are face up.
+ 
+• Players may inspect discard piles at any time.
+ 
+• Used Reactant Cards go to the Reactant discard pile.
+ 
+• Used Apparatus Cards go to the Apparatus discard pile.
+ 
+• Used or expired Action Cards go to the Action discard pile.
+ 
+• Completed and voluntarily replaced Task Cards go to the Task discard pile.
+ 
+• When a draw deck runs out, shuffle its corresponding discard pile into a new draw deck.
+ 
+• This applies to the Reactant, Apparatus, Action, and Task decks.
+ 
+• If both a draw deck and its discard pile are empty, cards cannot be drawn from that type until cards become available.
+ 
+• If a card effect requires drawing more cards than are available, draw as many as possible.
+ 
+• There is no refund for an Action Card that cannot draw its full intended amount.
+ 
+• Discard piles can be accessed directly only when a card or rule permits it.
+ 
+• Taking from a discard pile does not require shuffling it unless the associated deck must be replenished.
+ 
+
+--- PAGE 20 ---
+CHEMa’t™  |  Complete game rulebook
+20
+20 Reactant Cards - 82 Total
+Reactant
+Formula
+Copies
+Calcium chloride
+CaCl 
+4
+Sodium carbonate
+Na CO 
+4
+Magnesium chloride
+MgCl 
+3
+Sodium hydroxide
+NaOH
+9
+Aluminium chloride
+AlCl 
+3
+Potassium sulfate
+K SO 
+2
+Aluminium sulfate
+Al (SO ) 
+2
+Water
+H O
+5
+Citric acid
+C H O 
+2
+Acetic acid
+CH COOH
+5
+Copper(II) oxide
+CuO
+2
+Iron(III) chloride
+FeCl 
+5
+Copper(II) sulfate
+CuSO 
+2
+Zinc sulfate
+ZnSO 
+2
+Sodium phosphate
+Na PO 
+2
+Calcium hydroxide
+Ca(OH) 
+2
+Phosphoric acid
+H PO 
+2
+Lactic acid
+C H O 
+2
+Calcium carbonate
+CaCO 
+4
+Gluconic acid
+C H  O 
+2
+Iron(II) chloride
+FeCl 
+2
+Sodium oxalate
+Na C O 
+2
+Potassium oxalate
+K C O 
+2
+Acetylacetone
+C H O 
+2
+Sodium silicate
+Na SiO 
+2
+Hydrochloric acid
+HCl
+2
+Salicylic acid
+C H O 
+2
+Acetic anhydride
+(CH CO) O
+2
+Ethanol
+C H OH
+2
+TOTAL
+82
+
+
+--- PAGE 21 ---
+CHEMa’t™  |  Complete game rulebook
+21
+21 Apparatus Cards - 30 Total
+Apparatus
+Copies
+Beaker
+8
+Stirring rod
+7
+Evaporating dish
+3
+Filter funnel
+3
+Reaction flask
+4
+Fume hood
+2
+Heating plate
+3
+TOTAL
+30
+
+
+--- PAGE 22 ---
+CHEMa’t™  |  Complete game rulebook
+22
+22 Task Cards and Compound Recipes - 35
+Total
+Each listed reactant and apparatus requires one corresponding card. Every required card is consumed. Creation fee = 5
+pesos + the number of required Reactant and Apparatus Cards.
+Easy / 1 point / 20 cards
+Compound / formula
+Required cards
+Copies / fee
+Calcium carbonate - CaCO 
+Reactants: Calcium chloride + Sodium carbonate Apparatus:
+Beaker + Stirring rod
+2 / 9 pesos
+Magnesium hydroxide - Mg(OH) 
+Reactants: Magnesium chloride + Sodium hydroxide Apparatus:
+Beaker + Stirring rod
+2 / 9 pesos
+Aluminium hydroxide - Al(OH) 
+Reactants: Aluminium chloride + Sodium hydroxide Apparatus:
+Beaker + Stirring rod
+2 / 9 pesos
+Potassium alum -
+KAl(SO ) ·12H O
+Reactants: Potassium sulfate + Aluminium sulfate + Water
+Apparatus: Beaker + Evaporating dish
+2 / 10 pesos
+Sodium citrate - Na C H O 
+Reactants: Citric acid + Sodium hydroxide Apparatus: Beaker +
+Stirring rod
+2 / 9 pesos
+Sodium acetate - CH COONa
+Reactants: Acetic acid + Sodium hydroxide Apparatus: Beaker +
+Stirring rod
+2 / 9 pesos
+Copper(II) acetate - Cu(CH COO) 
+Reactants: Copper(II) oxide + Acetic acid Apparatus: Beaker +
+Filter funnel
+2 / 9 pesos
+Iron(III) hydroxide - Fe(OH) 
+Reactants: Iron(III) chloride + Sodium hydroxide Apparatus:
+Beaker + Stirring rod
+2 / 9 pesos
+Copper(II) hydroxide - Cu(OH) 
+Reactants: Copper(II) sulfate + Sodium hydroxide Apparatus:
+Beaker + Stirring rod
+2 / 9 pesos
+Zinc carbonate - ZnCO 
+Reactants: Zinc sulfate + Sodium carbonate Apparatus: Beaker +
+Stirring rod
+2 / 9 pesos
+
+
+--- PAGE 23 ---
+CHEMa’t™  |  Complete game rulebook
+23
+22 Compound recipes, continued
+Medium / 3 points / 10 cards
+Compound / formula
+Required cards
+Copies / fee
+Tricalcium phosphate - Ca (PO ) 
+Reactants: Calcium chloride + Sodium phosphate Apparatus:
+Beaker + Stirring rod
+2 / 9 pesos
+Hydroxyapatite -
+Ca  (PO ) (OH) 
+Reactants: Calcium hydroxide + Phosphoric acid Apparatus:
+Beaker + Stirring rod
+2 / 9 pesos
+Calcium lactate - Ca(C H O ) 
+Reactants: Lactic acid + Calcium carbonate Apparatus: Beaker +
+Stirring rod
+2 / 9 pesos
+Calcium gluconate -
+Ca(C H  O ) 
+Reactants: Gluconic acid + Calcium carbonate Apparatus: Beaker
++ Stirring rod
+2 / 9 pesos
+Iron(II) oxalate - FeC O 
+Reactants: Iron(II) chloride + Sodium oxalate Apparatus: Beaker +
+Stirring rod
+2 / 9 pesos
+
+
+--- PAGE 24 ---
+CHEMa’t™  |  Complete game rulebook
+24
+22 Compound recipes, continued
+Hard / 5 points / 5 cards
+Compound / formula
+Required cards
+Copies / fee
+Potassium ferrioxalate -
+K [Fe(C O ) ]
+Reactants: Iron(III) chloride + Potassium oxalate Apparatus:
+Beaker + Evaporating dish
+1 / 9 pesos
+Iron(III) acetylacetonate -
+Fe(C H O ) 
+Reactants: Iron(III) chloride + Acetylacetone + Sodium hydroxide
+Apparatus: Reaction flask + Fume hood
+1 / 10 pesos
+Silica gel - SiO ·nH O
+Reactants: Sodium silicate + Hydrochloric acid Apparatus: Beaker
++ Stirring rod
+1 / 9 pesos
+Aspirin - C H O 
+Reactants: Salicylic acid + Acetic anhydride Apparatus: Reaction
+flask + Heating plate
+1 / 9 pesos
+Ethyl acetate - CH COOC H 
+Reactants: Ethanol + Acetic acid Apparatus: Reaction flask +
+Heating plate
+1 / 9 pesos
+
+
+--- PAGE 25 ---
+CHEMa’t™  |  Complete game rulebook
+25
+23 Action Card Quantity Summary
+Full card-by-card Action quantities appear with their effects in sections 13-17.
+Category
+Types
+Cards
+Good
+8
+19
+Attack
+8
+18
+Defence
+5
+11
+Chaos
+8
+16
+TOTAL
+29
+64
+Deck
+Types
+Cards
+Reactant
+29
+82
+Apparatus
+7
+30
+Task
+20
+35
+Action
+29
+64
+TOTAL
+85
+211
+The individual Action quantities supersede the earlier 62-card total. All inventory sums have been checked.
+
+
+--- PAGE 26 ---
+CHEMa’t™  |  Complete game rulebook
+26
+24 Consolidated Important Rules
+• You can only create compounds during Reaction Phases.
+ 
+• You can only create the compound shown on your active Task Card.
+ 
+• You can successfully complete a maximum of one compound per Reaction Phase.
+ 
+• Every Reactant and Apparatus Card used to complete a compound is consumed.
+ 
+• Every successful compound requires a creation fee.
+ 
+• Task Cards are secret unless their owners choose to reveal them.
+ 
+• Players may lie about their Tasks.
+ 
+• Task Cards cannot be bought, traded, or stolen.
+ 
+• Action Cards cost 2 pesos to buy and an additional 2 pesos to play.
+ 
+• Action Cards can be played only during regular turns.
+ 
+• Action Card effects normally resolve at the end of all regular turns.
+ 
+• Defence resolves before Attack, and Good/Chaos resolves afterward.
+ 
+• Failed Action Cards never receive refunds.
+ 
+• Chaos Cards cannot be defended against.
+ 
+• Players may hold unlimited cards and duplicate cards.
+ 
+• Discard piles are public.
+ 
+• Trading is permitted before compound creation starts, but not afterward during that Reaction Phase.
+ 
+• Banking follows the same Reaction Phase cutoff.
+ 
+• Voluntary Task replacement has an increasing cost and forces the new task to wait until a later Reaction Phase.
+ 
+• Double Yield applies only during its eligible current shared Reaction Phase and can stack.
+ 
+• Double Reaction grants an extra regular turn followed by a private Reaction Phase.
+ 
+• Multiple Double Reaction mini-rounds are completed consecutively by each eligible player in normal order.
+ 
+• Action Cards played during mini-rounds resolve in the next shared round.
+ 
+• Players may negotiate loans with fixed repayment deadlines.
+ 
+• Overdue loans incur a 2-peso penalty per overdue shared round.
+ 
+• Reaching 10 points with unpaid loans secures placement but does not end participation.
+ 
+• Players with frozen scores may still create compounds, but those compounds earn zero points.
+ 
+• Players exit only after reaching 10 points and settling outstanding loans.
+ 
+• After an eligible player exits, the remaining players continue competing for the remaining positions.
+ 
+• Decks are replenished by reshuffling their corresponding discard piles when necessary.
+ 
+
+--- PAGE 27 ---
+CHEMa’t™  |  Complete game rulebook
+27
+25 Details Not Yet Explicitly Defined
+• The following points have not been given fully specific rules. They should be treated as open design details rather than
+ silently invented by a rulebook editor.
+• Loans involving cards: What exact form of repayment is required if an equivalent card is unavailable? The overdue
+ penalty is specified in pesos.
+• How loan deadlines are recorded: Players need a consistent way to record the lender, borrower, amount owed, and due
+ shared round.
+• Several simultaneous loan debts: A precise priority for repayment has not been established.
+ 
+• Multiple Experiment Reversal cards: The exact handling of multiple reversals resolving during the same stage should be
+ specified. Applying each reversal in sequence is the straightforward interpretation.
+• Formula Shuffle and empty hands: A player without any eligible card cannot pass a card, but the treatment of the
+ remaining players' passes has not been explicitly decided.
+• Card inventories: The agreed quantities total 64 Action Cards, despite an earlier total of 62. The individual quantities
+ listed above are the more complete specification.
+• Chemistry accuracy: The compounds and simplified recipes are the agreed game-card recipes, not verified laboratory
+ synthesis instructions. Scientific accuracy should be audited separately before the cards are printed.
+Additional unresolved edge cases
+• Loan bookkeeping: the exact checkpoint for a shared round to count as completed, when the first overdue penalty is
+ charged, and the recipient of penalties are not specified.
+• Lender exit: handling repayment to a lender who has already left is not specified. Secured placements do not override the
+ latest requirement that borrowers keep playing until all debts are paid; the procedure after only one unplaced player
+remains is not specified.
+• Counter-Reaction: consumption, expiry, automatic versus chosen activation, and priority against other applicable
+ defences are not fully specified. Redirection chains are allowed, but a precise termination rule is absent.
+• Repeated defences: stacking and consumption rules for multiple copies of the same Defence Card are not fully specified.
+ 
+• Equipment Theft: who selects the stolen Apparatus Card is not specified.
+ 
+• Empty Task supply: the rules allow partial draws, but do not explain how exactly one active Task is restored if both Task
+ piles are empty.
+• Research Breakthrough: partial draws are permitted, but the keep/discard split with fewer than five available cards is not
+ specified.
+• Replacement frequency and end-of-phase windows: the number of voluntary replacements per opportunity, and a
+ trading/banking cutoff if nobody creates a compound, are not specified.
+Theme note
+Taco, nacho, churro and related designs are illustrations or card-holder motifs. No real food is needed to play.

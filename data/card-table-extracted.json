@@ -1,0 +1,676 @@
+{
+  "Sheet1": [
+    [
+      "Compound Produced",
+      "Difficulty",
+      "Reactant Cards",
+      "Apparatus Cards Required",
+      "Cards to Make"
+    ],
+    [
+      "Calcium carbonate — CaCO₃",
+      "Easy - 1 point",
+      "Calcium chloride + Sodium carbonate",
+      "Beaker + Stirring rod",
+      2
+    ],
+    [
+      "Magnesium hydroxide — Mg(OH)₂",
+      "Easy - 1 point",
+      "Magnesium chloride + Sodium hydroxide",
+      "Beaker + Stirring rod",
+      2
+    ],
+    [
+      "Aluminium hydroxide — Al(OH)₃",
+      "Easy - 1 point",
+      "Aluminium chloride + Sodium hydroxide",
+      "Beaker + Stirring rod",
+      2
+    ],
+    [
+      "Potassium alum — KAl(SO₄)₂·12H₂O",
+      "Easy - 1 point",
+      "Potassium sulfate + Aluminium sulfate + Water",
+      "Beaker + Evaporating dish",
+      2
+    ],
+    [
+      "Sodium citrate — Na₃C₆H₅O₇",
+      "Easy - 1 point",
+      "Citric acid + Sodium hydroxide",
+      "Beaker + Stirring rod",
+      2
+    ],
+    [
+      "Sodium acetate — CH₃COONa",
+      "Easy - 1 point",
+      "Acetic acid + Sodium hydroxide",
+      "Beaker + Stirring rod",
+      2
+    ],
+    [
+      "Copper(II) acetate — Cu(CH₃COO)₂",
+      "Easy - 1 point",
+      "Copper(II) oxide + Acetic acid",
+      "Beaker + Filter funnel",
+      2
+    ],
+    [
+      "Iron(III) hydroxide — Fe(OH)₃",
+      "Easy - 1 point",
+      "Iron(III) chloride + Sodium hydroxide",
+      "Beaker + Stirring rod",
+      2
+    ],
+    [
+      "Copper(II) hydroxide — Cu(OH)₂",
+      "Easy - 1 point",
+      "Copper(II) sulfate + Sodium hydroxide",
+      "Beaker + Stirring rod",
+      2
+    ],
+    [
+      "Zinc carbonate — ZnCO₃",
+      "Easy - 1 point",
+      "Zinc sulfate + Sodium carbonate",
+      "Beaker + Stirring rod",
+      2
+    ],
+    [
+      "Tricalcium phosphate — Ca₃(PO₄)₂",
+      "Medium - 3 points",
+      "Calcium chloride + Sodium phosphate",
+      "Beaker + Stirring rod",
+      1
+    ],
+    [
+      "Hydroxyapatite — Ca₁₀(PO₄)₆(OH)₂",
+      "Medium - 3 points",
+      "Calcium hydroxide + Phosphoric acid",
+      "Beaker + Stirring rod",
+      1
+    ],
+    [
+      "Calcium lactate — Ca(C₃H₅O₃)₂",
+      "Medium - 3 points",
+      "Lactic acid + Calcium carbonate",
+      "Beaker + Stirring rod",
+      1
+    ],
+    [
+      "Calcium gluconate — Ca(C₆H₁₁O₇)₂",
+      "Medium - 3 points",
+      "Gluconic acid + Calcium carbonate",
+      "Beaker + Stirring rod",
+      1
+    ],
+    [
+      "Iron(II) oxalate — FeC₂O₄",
+      "Medium - 3 points",
+      "Iron(II) chloride + Sodium oxalate",
+      "Beaker + Filter funnel",
+      1
+    ],
+    [
+      "Potassium ferrioxalate — K₃[Fe(C₂O₄)₃]",
+      "Hard - 5 points",
+      "Iron(III) chloride + Potassium oxalate",
+      "Beaker + Evaporating dish",
+      1
+    ],
+    [
+      "Iron(III) acetylacetonate — Fe(C₅H₇O₂)₃",
+      "Hard - 5 points",
+      "Iron(III) chloride + Acetylacetone + Sodium hydroxide",
+      "Reaction flask + Fume hood",
+      1
+    ],
+    [
+      "Silica gel — SiO₂·nH₂O",
+      "Hard - 5 points",
+      "Sodium silicate + Hydrochloric acid",
+      "Beaker + Stirring rod",
+      1
+    ],
+    [
+      "Aspirin — C₉H₈O₄",
+      "Hard - 5 points",
+      "Salicylic acid + Acetic anhydride",
+      "Reaction flask + Heating plate",
+      1
+    ],
+    [
+      "Ethyl acetate — CH₃COOC₂H₅",
+      "Hard - 5 points",
+      "Ethanol + Acetic acid",
+      "Reaction flask + Heating plate",
+      1
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      "Total = 30"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Reactant",
+      "Chemical Formula",
+      "Appearances",
+      "Cards to Make",
+      null
+    ],
+    [
+      "Calcium chloride",
+      "CaCl₂",
+      2,
+      4,
+      null
+    ],
+    [
+      "Sodium carbonate",
+      "Na₂CO₃",
+      2,
+      4,
+      null
+    ],
+    [
+      "Magnesium chloride",
+      "MgCl₂",
+      1,
+      3,
+      null
+    ],
+    [
+      "Sodium hydroxide",
+      "NaOH",
+      6,
+      8,
+      null
+    ],
+    [
+      "Aluminium chloride",
+      "AlCl₃",
+      1,
+      3,
+      null
+    ],
+    [
+      "Potassium sulfate",
+      "K₂SO₄",
+      1,
+      2,
+      null
+    ],
+    [
+      "Aluminium sulfate",
+      "Al₂(SO₄)₃",
+      1,
+      2,
+      null
+    ],
+    [
+      "Water",
+      "H₂O",
+      1,
+      5,
+      null
+    ],
+    [
+      "Citric acid",
+      "C₆H₈O₇",
+      1,
+      2,
+      null
+    ],
+    [
+      "Acetic acid",
+      "CH₃COOH",
+      3,
+      5,
+      null
+    ],
+    [
+      "Copper(II) oxide",
+      "CuO",
+      1,
+      2,
+      null
+    ],
+    [
+      "Iron(III) chloride",
+      "FeCl₃",
+      3,
+      5,
+      null
+    ],
+    [
+      "Copper(II) sulfate",
+      "CuSO₄",
+      1,
+      2,
+      null
+    ],
+    [
+      "Zinc sulfate",
+      "ZnSO₄",
+      1,
+      2,
+      null
+    ],
+    [
+      "Sodium phosphate",
+      "Na₃PO₄",
+      1,
+      2,
+      null
+    ],
+    [
+      "Calcium hydroxide",
+      "Ca(OH)₂",
+      1,
+      2,
+      null
+    ],
+    [
+      "Phosphoric acid",
+      "H₃PO₄",
+      1,
+      2,
+      null
+    ],
+    [
+      "Lactic acid",
+      "C₃H₆O₃",
+      1,
+      2,
+      null
+    ],
+    [
+      "Calcium carbonate",
+      "CaCO₃",
+      2,
+      4,
+      null
+    ],
+    [
+      "Gluconic acid",
+      "C₆H₁₂O₇",
+      1,
+      2,
+      null
+    ],
+    [
+      "Iron(II) chloride",
+      "FeCl₂",
+      1,
+      2,
+      null
+    ],
+    [
+      "Sodium oxalate",
+      "Na₂C₂O₄",
+      1,
+      2,
+      null
+    ],
+    [
+      "Potassium oxalate",
+      "K₂C₂O₄",
+      1,
+      2,
+      null
+    ],
+    [
+      "Acetylacetone",
+      "C₅H₈O₂",
+      1,
+      2,
+      null
+    ],
+    [
+      "Sodium silicate",
+      "Na₂SiO₃",
+      1,
+      2,
+      null
+    ],
+    [
+      "Hydrochloric acid",
+      "HCl",
+      1,
+      2,
+      null
+    ],
+    [
+      "Salicylic acid",
+      "C₇H₆O₃",
+      1,
+      2,
+      null
+    ],
+    [
+      "Acetic anhydride",
+      "(CH₃CO)₂O",
+      1,
+      2,
+      null
+    ],
+    [
+      "Ethanol",
+      "C₂H₅OH",
+      1,
+      2,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      "Total = 81",
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Apparatus Card",
+      "Appearances",
+      "Cards to Make",
+      null,
+      null
+    ],
+    [
+      "Beaker",
+      17,
+      8,
+      null,
+      null
+    ],
+    [
+      "Stirring rod",
+      14,
+      7,
+      null,
+      null
+    ],
+    [
+      "Evaporating dish",
+      2,
+      3,
+      null,
+      null
+    ],
+    [
+      "Filter funnel",
+      2,
+      3,
+      null,
+      null
+    ],
+    [
+      "Reaction flask",
+      3,
+      4,
+      null,
+      null
+    ],
+    [
+      "Fume hood",
+      1,
+      2,
+      null,
+      null
+    ],
+    [
+      "Heating plate",
+      2,
+      3,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "Total = 30",
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Category",
+      "Action Card",
+      "Effect",
+      "Cards to Make",
+      null
+    ],
+    [
+      "Good - 1 peso",
+      "Quick Experiment",
+      "Draw 2 cards from the reactant deck",
+      3,
+      null
+    ],
+    [
+      "Good - 1 peso",
+      "Perfect Match",
+      "Take 1 reactant card of your choice from the discard pile",
+      2,
+      null
+    ],
+    [
+      "Good - 1 peso",
+      "Extra Equipment",
+      "Take 1 apparatus card from the apparatus deck",
+      3,
+      null
+    ],
+    [
+      "Good - 1 peso",
+      "Chemical Discovery",
+      "Draw 3 cards, then discard 1 card",
+      2,
+      null
+    ],
+    [
+      "Good - 1 peso",
+      "Double Yield",
+      "Earn double points for your next compound",
+      2,
+      null
+    ],
+    [
+      "Good - 1 peso",
+      "Lucky Reaction",
+      "Take 1 random card from any deck",
+      3,
+      null
+    ],
+    [
+      "Good - 1 peso",
+      "Lab Upgrade",
+      "Take 1 apparatus card of your choice from the discard pile",
+      2,
+      null
+    ],
+    [
+      "Good - 1 peso",
+      "Research Breakthrough",
+      "Look at the top 5 reactant cards and keep 2",
+      2,
+      null
+    ],
+    [
+      "Attack - 2 pesos",
+      "Card Heist",
+      "Steal 2 random cards from a player of your choice",
+      3,
+      null
+    ],
+    [
+      "Attack - 2 pesos",
+      "Reactant Raid",
+      "Steal 1 reactant card of your choice from a player",
+      2,
+      null
+    ],
+    [
+      "Attack - 2 pesos",
+      "Equipment Theft",
+      "Steal 1 apparatus card from a player",
+      2,
+      null
+    ],
+    [
+      "Attack - 2 pesos",
+      "Contamination!",
+      "Choose a player to discard 2 reactant cards of their choice",
+      2,
+      null
+    ],
+    [
+      "Attack - 2 pesos",
+      "Lab Lockdown",
+      "Choose a player who cannot make a compound on their next turn",
+      2,
+      null
+    ],
+    [
+      "Attack - 2 pesos",
+      "Failed Experiment",
+      "Choose a player to discard 1 random card",
+      3,
+      null
+    ],
+    [
+      "Attack - 2 pesos",
+      "Supply Shortage",
+      "Every other player discards 1 reactant card",
+      2,
+      null
+    ],
+    [
+      "Attack - 2 pesos",
+      "Stolen Research",
+      "Take 1 random action card from another player",
+      2,
+      null
+    ],
+    [
+      "Defence - 2 pesos",
+      "Safety Goggles",
+      "Cancel an attack card played against you",
+      3,
+      null
+    ],
+    [
+      "Defence - 2 pesos",
+      "Secure Storage",
+      "Your cards cannot be stolen until your next turn",
+      2,
+      null
+    ],
+    [
+      "Defence - 2 pesos",
+      "Emergency Backup",
+      "Keep 1 card that would otherwise be discarded by an opponent's action",
+      2,
+      null
+    ],
+    [
+      "Defence - 2 pesos",
+      "Counter-Reaction",
+      "Redirect an attack aimed at you to another player",
+      2,
+      null
+    ],
+    [
+      "Defence - 2 pesos",
+      "Lab Insurance",
+      "If an action makes you lose cards, draw 2 replacement reactant cards",
+      2,
+      null
+    ],
+    [
+      "Chaos - 3 pesos",
+      "Chemical Spill",
+      "Every player discards 1 random reactant card",
+      2,
+      null
+    ],
+    [
+      "Chaos - 3 pesos",
+      "Market Swap",
+      "Exchange 2 cards with 2 random cards from another player's hand",
+      2,
+      null
+    ],
+    [
+      "Chaos - 3 pesos",
+      "Equipment Recall",
+      "Every player returns 1 apparatus card to the apparatus deck",
+      2,
+      null
+    ],
+    [
+      "Chaos - 3 pesos",
+      "Formula Shuffle",
+      "Everyone passes 1 random card to the player on their left",
+      2,
+      null
+    ],
+    [
+      "Chaos - 3 pesos",
+      "Double Reaction",
+      "Take another turn immediately after this one",
+      2,
+      null
+    ],
+    [
+      "Chaos - 3 pesos",
+      "Unexpected Catalyst",
+      "Choose a player; you both draw 2 reactant cards",
+      2,
+      null
+    ],
+    [
+      "Chaos - 3 pesos",
+      "Mass Production",
+      "Everyone draws 1 reactant card; you draw 3 instead",
+      2,
+      null
+    ],
+    [
+      "Chaos - 3 pesos",
+      "Experiment Reversal",
+      "Reverse the turn order",
+      2,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      "Total = 62",
+      null
+    ]
+  ]
+}
