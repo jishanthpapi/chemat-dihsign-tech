@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-15",
+  "source_base_commit": "6be3d25",
+  "scope": "one physical Android phone; separate desktop two-client regression",
+  "native_one_phone_checks_passed": true,
+  "native_storage_tests": {
+    "passed": 1,
+    "exit_code": 0
+  },
+  "backend_regression": {
+    "passed": 118,
+    "exit_code": 0
+  },
+  "flutter_regular": {
+    "passed": 6,
+    "opt_in_live_skips": 2,
+    "exit_code": 0
+  },
+  "desktop_live": {
+    "passed": 2,
+    "coordinator_exit_code": 0,
+    "flutter_exit_code": 0,
+    "scores": {
+      "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 10,
+      "0c42e460-46e8-48ef-9d98-355e5c880b34": 5
+    },
+    "persisted_awards_verified": true
+  },
+  "executed_passes": 127,
+  "analyzer_exit_code": 0,
+  "apk": {
+    "path": "reports/android-native/chemat-debug.apk",
+    "sha256": "D2EE69BA1500B1A1365B12F7DD130DD0349465E31074EF6E03EA60974AAB3D57",
+    "min_sdk": 24,
+    "target_sdk": 36,
+    "debug": true
+  },
+  "device": {
+    "manufacturer": "samsung",
+    "model": "SM-M066B",
+    "android_release": "16",
+    "api": "36",
+    "abi": "arm64-v8a",
+    "display": "Physical size: 720x1600"
+  },
+  "native_match_id": "7e500238-2e1a-41d6-aa11-77b2d9636287",
+  "native_match_completed": false,
+  "two_android_device_match_verified": false,
+  "api_peer_used_for_native_recovery_smoke": true,
+  "native_backend_controlled_exit_codes": [
+    1,
+    1,
+    1
+  ],
+  "native_peer_exit_code": 0,
+  "native_networking": "HTTP/WS via USB reverse; no public HTTPS/WSS claim",
+  "initial_usb_reenumeration": "forwarding was lost; restored before separate successful backend-only restart",
+  "app_profile_retained": true,
+  "native_app_stopped": true,
+  "native_test_forwarding_removed": true,
+  "gameplay_rules_changed": false,
+  "architecture_changed": false,
+  "pushed": false,
+  "native_ranking_awards_count": 0,
+  "process_audit": {
+    "count": 0,
+    "adb_daemon": "retained as installed tooling",
+    "matching_processes": []
+  }
+}

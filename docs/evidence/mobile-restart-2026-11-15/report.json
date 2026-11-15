@@ -1,0 +1,547 @@
+{
+  "match_id": "3c353ac6-18c7-4d29-b167-9d3508c64d1c",
+  "placements": {
+    "9746afb4-63b3-4cc9-9783-bd726fb79707": 1,
+    "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 2
+  },
+  "ranking_awards": {
+    "9746afb4-63b3-4cc9-9783-bd726fb79707": 30,
+    "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 15
+  },
+  "reconnected": true,
+  "backend_restarted": true,
+  "final_scores": {
+    "9746afb4-63b3-4cc9-9783-bd726fb79707": 14,
+    "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 5
+  },
+  "client_results": [
+    {
+      "match_id": "3c353ac6-18c7-4d29-b167-9d3508c64d1c",
+      "placements": {
+        "9746afb4-63b3-4cc9-9783-bd726fb79707": 1,
+        "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 2
+      },
+      "ranking_awards": {
+        "9746afb4-63b3-4cc9-9783-bd726fb79707": 30,
+        "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 15
+      },
+      "scores": {
+        "9746afb4-63b3-4cc9-9783-bd726fb79707": 14,
+        "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 5
+      }
+    },
+    {
+      "match_id": "3c353ac6-18c7-4d29-b167-9d3508c64d1c",
+      "placements": {
+        "9746afb4-63b3-4cc9-9783-bd726fb79707": 1,
+        "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 2
+      },
+      "ranking_awards": {
+        "9746afb4-63b3-4cc9-9783-bd726fb79707": 30,
+        "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 15
+      },
+      "scores": {
+        "9746afb4-63b3-4cc9-9783-bd726fb79707": 14,
+        "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 5
+      }
+    }
+  ],
+  "identical_final_results": true,
+  "turns": 81,
+  "log": [
+    {
+      "step": 0,
+      "phase": "regular",
+      "player": 1,
+      "round": 1
+    },
+    {
+      "step": 1,
+      "phase": "regular",
+      "player": 0,
+      "round": 1
+    },
+    {
+      "step": 2,
+      "phase": "reaction",
+      "player": 1,
+      "round": 1
+    },
+    {
+      "step": 3,
+      "phase": "reaction",
+      "player": 0,
+      "round": 1
+    },
+    {
+      "step": 4,
+      "phase": "reaction",
+      "player": 0,
+      "round": 1
+    },
+    {
+      "step": 5,
+      "phase": "regular",
+      "player": 1,
+      "round": 2
+    },
+    {
+      "step": 6,
+      "phase": "regular",
+      "player": 0,
+      "round": 2
+    },
+    {
+      "step": 7,
+      "phase": "reaction",
+      "player": 1,
+      "round": 2
+    },
+    {
+      "step": 8,
+      "phase": "reaction",
+      "player": 0,
+      "round": 2
+    },
+    {
+      "step": 9,
+      "phase": "regular",
+      "player": 1,
+      "round": 3
+    },
+    {
+      "step": 10,
+      "phase": "regular",
+      "player": 0,
+      "round": 3
+    },
+    {
+      "step": 11,
+      "phase": "reaction",
+      "player": 1,
+      "round": 3
+    },
+    {
+      "step": 12,
+      "phase": "reaction",
+      "player": 0,
+      "round": 3
+    },
+    {
+      "step": 13,
+      "phase": "regular",
+      "player": 1,
+      "round": 4
+    },
+    {
+      "step": 14,
+      "phase": "regular",
+      "player": 0,
+      "round": 4
+    },
+    {
+      "step": 15,
+      "phase": "reaction",
+      "player": 1,
+      "round": 4
+    },
+    {
+      "step": 16,
+      "phase": "reaction",
+      "player": 0,
+      "round": 4
+    },
+    {
+      "step": 17,
+      "phase": "regular",
+      "player": 1,
+      "round": 5
+    },
+    {
+      "step": 18,
+      "phase": "regular",
+      "player": 0,
+      "round": 5
+    },
+    {
+      "step": 19,
+      "phase": "reaction",
+      "player": 1,
+      "round": 5
+    },
+    {
+      "step": 20,
+      "phase": "reaction",
+      "player": 0,
+      "round": 5
+    },
+    {
+      "step": 21,
+      "phase": "regular",
+      "player": 1,
+      "round": 6
+    },
+    {
+      "step": 22,
+      "phase": "regular",
+      "player": 0,
+      "round": 6
+    },
+    {
+      "step": 23,
+      "phase": "reaction",
+      "player": 1,
+      "round": 6
+    },
+    {
+      "step": 24,
+      "phase": "reaction",
+      "player": 0,
+      "round": 6
+    },
+    {
+      "step": 25,
+      "phase": "regular",
+      "player": 1,
+      "round": 7
+    },
+    {
+      "step": 26,
+      "phase": "regular",
+      "player": 0,
+      "round": 7
+    },
+    {
+      "step": 27,
+      "phase": "reaction",
+      "player": 1,
+      "round": 7
+    },
+    {
+      "step": 28,
+      "phase": "reaction",
+      "player": 0,
+      "round": 7
+    },
+    {
+      "step": 29,
+      "phase": "regular",
+      "player": 1,
+      "round": 8
+    },
+    {
+      "step": 30,
+      "phase": "regular",
+      "player": 0,
+      "round": 8
+    },
+    {
+      "step": 31,
+      "phase": "reaction",
+      "player": 1,
+      "round": 8
+    },
+    {
+      "step": 32,
+      "phase": "reaction",
+      "player": 0,
+      "round": 8
+    },
+    {
+      "step": 33,
+      "phase": "regular",
+      "player": 1,
+      "round": 9
+    },
+    {
+      "step": 34,
+      "phase": "regular",
+      "player": 0,
+      "round": 9
+    },
+    {
+      "step": 35,
+      "phase": "reaction",
+      "player": 1,
+      "round": 9
+    },
+    {
+      "step": 36,
+      "phase": "reaction",
+      "player": 0,
+      "round": 9
+    },
+    {
+      "step": 37,
+      "phase": "regular",
+      "player": 1,
+      "round": 10
+    },
+    {
+      "step": 38,
+      "phase": "regular",
+      "player": 0,
+      "round": 10
+    },
+    {
+      "step": 39,
+      "phase": "reaction",
+      "player": 1,
+      "round": 10
+    },
+    {
+      "step": 40,
+      "phase": "reaction",
+      "player": 0,
+      "round": 10
+    },
+    {
+      "step": 41,
+      "phase": "regular",
+      "player": 1,
+      "round": 11
+    },
+    {
+      "step": 42,
+      "phase": "regular",
+      "player": 0,
+      "round": 11
+    },
+    {
+      "step": 43,
+      "phase": "reaction",
+      "player": 1,
+      "round": 11
+    },
+    {
+      "step": 44,
+      "phase": "reaction",
+      "player": 0,
+      "round": 11
+    },
+    {
+      "step": 45,
+      "phase": "regular",
+      "player": 1,
+      "round": 12
+    },
+    {
+      "step": 46,
+      "phase": "regular",
+      "player": 0,
+      "round": 12
+    },
+    {
+      "step": 47,
+      "phase": "reaction",
+      "player": 1,
+      "round": 12
+    },
+    {
+      "step": 48,
+      "phase": "reaction",
+      "player": 0,
+      "round": 12
+    },
+    {
+      "step": 49,
+      "phase": "regular",
+      "player": 1,
+      "round": 13
+    },
+    {
+      "step": 50,
+      "phase": "regular",
+      "player": 0,
+      "round": 13
+    },
+    {
+      "step": 51,
+      "phase": "reaction",
+      "player": 1,
+      "round": 13
+    },
+    {
+      "step": 52,
+      "phase": "reaction",
+      "player": 0,
+      "round": 13
+    },
+    {
+      "step": 53,
+      "phase": "regular",
+      "player": 1,
+      "round": 14
+    },
+    {
+      "step": 54,
+      "phase": "regular",
+      "player": 0,
+      "round": 14
+    },
+    {
+      "step": 55,
+      "phase": "reaction",
+      "player": 1,
+      "round": 14
+    },
+    {
+      "step": 56,
+      "phase": "reaction",
+      "player": 0,
+      "round": 14
+    },
+    {
+      "step": 57,
+      "phase": "regular",
+      "player": 1,
+      "round": 15
+    },
+    {
+      "step": 58,
+      "phase": "regular",
+      "player": 0,
+      "round": 15
+    },
+    {
+      "step": 59,
+      "phase": "reaction",
+      "player": 1,
+      "round": 15
+    },
+    {
+      "step": 60,
+      "phase": "reaction",
+      "player": 0,
+      "round": 15
+    },
+    {
+      "step": 61,
+      "phase": "regular",
+      "player": 1,
+      "round": 16
+    },
+    {
+      "step": 62,
+      "phase": "regular",
+      "player": 0,
+      "round": 16
+    },
+    {
+      "step": 63,
+      "phase": "reaction",
+      "player": 1,
+      "round": 16
+    },
+    {
+      "step": 64,
+      "phase": "reaction",
+      "player": 0,
+      "round": 16
+    },
+    {
+      "step": 65,
+      "phase": "regular",
+      "player": 1,
+      "round": 17
+    },
+    {
+      "step": 66,
+      "phase": "regular",
+      "player": 0,
+      "round": 17
+    },
+    {
+      "step": 67,
+      "phase": "reaction",
+      "player": 1,
+      "round": 17
+    },
+    {
+      "step": 68,
+      "phase": "reaction",
+      "player": 0,
+      "round": 17
+    },
+    {
+      "step": 69,
+      "phase": "regular",
+      "player": 1,
+      "round": 18
+    },
+    {
+      "step": 70,
+      "phase": "regular",
+      "player": 0,
+      "round": 18
+    },
+    {
+      "step": 71,
+      "phase": "reaction",
+      "player": 1,
+      "round": 18
+    },
+    {
+      "step": 72,
+      "phase": "reaction",
+      "player": 0,
+      "round": 18
+    },
+    {
+      "step": 73,
+      "phase": "regular",
+      "player": 1,
+      "round": 19
+    },
+    {
+      "step": 74,
+      "phase": "regular",
+      "player": 0,
+      "round": 19
+    },
+    {
+      "step": 75,
+      "phase": "reaction",
+      "player": 1,
+      "round": 19
+    },
+    {
+      "step": 76,
+      "phase": "reaction",
+      "player": 0,
+      "round": 19
+    },
+    {
+      "step": 77,
+      "phase": "regular",
+      "player": 1,
+      "round": 20
+    },
+    {
+      "step": 78,
+      "phase": "regular",
+      "player": 0,
+      "round": 20
+    },
+    {
+      "step": 79,
+      "phase": "reaction",
+      "player": 1,
+      "round": 20
+    },
+    {
+      "step": 80,
+      "phase": "reaction",
+      "player": 0,
+      "round": 20
+    }
+  ],
+  "persisted_awards_verified": true,
+  "flutter_exit_code": 0,
+  "server_exit_codes": [
+    1,
+    1
+  ],
+  "controlled_servers_exited": true,
+  "verification_complete": true
+}

@@ -1,0 +1,42 @@
+[!] Flutter (Channel stable, 3.50.0, on Microsoft Windows [Version 10.0.19045.6456], locale en-IN) [1,435ms]
+    • Flutter version 3.50.0 on channel stable at C:\Users\jisha\OneDrive\Documents\ChatGPT\chemat dt\.tools\flutter
+    ! The flutter binary is not on your path. Consider adding C:\Users\jisha\OneDrive\Documents\ChatGPT\chemat dt\.tools\flutter\bin to your path.
+    ! The dart binary is not on your path. Consider adding C:\Users\jisha\OneDrive\Documents\ChatGPT\chemat dt\.tools\flutter\bin to your path.
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision ab2912035e (6 days ago), 2026-11-09 08:50:21 -0800
+    • Engine revision 371f77202a
+    • Dart version 3.14.0
+    • DevTools version 2.61.0
+    • Feature flags: enable-web, enable-linux-desktop, enable-macos-desktop, enable-windows-desktop, enable-android, enable-ios, cli-animations, enable-native-assets, enable-record-use, enable-swift-package-manager, omit-legacy-version-file, enable-lldb-debugging, enable-uiscene-migration
+    • If those were intentional, you can disregard the above warnings; however it is recommended to use "git" directly to perform update checks and upgrades.
+
+[√] Windows Version (10 Pro 64-bit, 22H2, 2009) [51.0s]
+
+[√] Android toolchain - develop for Android devices (Android SDK version 36.0.0) [5.9s]
+    • Android SDK at C:/Users/jisha/.chemat-tools/android-sdk
+    • Emulator version unknown
+    • Platform android-36, build-tools 36.0.0
+    • Java binary at: C:/Users/jisha/.chemat-tools/jdk-17.0.21+9\bin\java
+      This JDK is specified in your Flutter configuration.
+      To change the current JDK, run: `flutter config --jdk-dir="path/to/jdk"`.
+    • Java version OpenJDK Runtime Environment Temurin-17.0.21+9 (build 17.0.21+9)
+    • All Android licenses accepted.
+
+[√] Chrome - develop for the web [1,560ms]
+    • Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[X] Visual Studio - develop Windows apps [1,552ms]
+    X Visual Studio not installed; this is necessary to develop Windows apps.
+      Download at https://visualstudio.microsoft.com/downloads/.
+      Please install the "Desktop development with C++" workload, including all of its default components
+
+[√] Connected device (4 available) [9.8s]
+    • SM M066B (mobile) • R9ZY80GKZQF • android-arm64  • Android 16 (API 36)
+    • Windows (desktop) • windows     • windows-x64    • Microsoft Windows [Version 10.0.19045.6456]
+    • Chrome (web)      • chrome      • web-javascript • Google Chrome 157.0.8103.52
+    • Edge (web)        • edge        • web-javascript • Microsoft Edge 157.0.4341.46
+
+[√] Network resources [4.8s]
+    • All expected network resources are available.
+
+! Doctor found issues in 2 categories.

@@ -1,0 +1,14 @@
+services:
+  backend:
+    build: .
+    ports:
+      - "127.0.0.1:8000:8000"
+    environment:
+      CHEMAT_DATABASE_PATH: /app/storage/chemat.sqlite3
+      CHEMAT_TURN_SECONDS: ${CHEMAT_TURN_SECONDS:-60}
+      CHEMAT_NEGOTIATION_SECONDS: ${CHEMAT_NEGOTIATION_SECONDS:-30}
+    volumes:
+      - chemat-data:/app/storage
+    restart: unless-stopped
+volumes:
+  chemat-data:

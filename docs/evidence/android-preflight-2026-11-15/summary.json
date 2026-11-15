@@ -1,0 +1,21 @@
+{
+  "flutter_analysis_exit": 0,
+  "native_tests": "not run",
+  "android_devices": 0,
+  "apk_produced": false,
+  "backend_exit": 0,
+  "configuration_changed": false,
+  "installation_approval": "pending",
+  "installed_dependencies": false,
+  "backend_passes": 118,
+  "date": "2026-11-15",
+  "android_acceptance_verified": false,
+  "source_commit": "e2dac42",
+  "blockers": [
+    "Missing Android SDK/ADB",
+    "Java 8 runtime; JDK 17 required",
+    "About 1.8 GiB free on C:",
+    "No Android device/emulator"
+  ],
+  "apk_build_exit": 1
+}

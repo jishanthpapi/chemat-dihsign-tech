@@ -1,0 +1,16 @@
+{
+  "jdk": "C:\\Users\\jisha\\.chemat-tools\\jdk-17.0.21+9",
+  "sdk": "C:\\Users\\jisha\\.chemat-tools\\android-sdk",
+  "jdk_package": {
+    "name": "OpenJDK17U-jdk_x64_windows_hotspot_17.0.21_9.zip",
+    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21%2B9/OpenJDK17U-jdk_x64_windows_hotspot_17.0.21_9.zip",
+    "checksum": "98518ecf554465057ee5509462631deeee374bc368c12a411d225cd29381f84b"
+  },
+  "command_line_tools_archive": "commandlinetools-win-16111833_latest.zip",
+  "command_line_tools_checksum": "57d04f2d75eb8e8fffc5000a987e5de4b5a63e9d",
+  "initial_compatibility_wrapper_exit": 0,
+  "initial_wrapper_partial_install": true,
+  "native_cli_install_exit": 0,
+  "command_line_tools_checksum_algorithm": "sha1",
+  "installation_approved": true
+}

@@ -1,0 +1,60 @@
+Backend restarted; waiting for both app clients to recover
+{
+  "match_id": "2ec1c85d-3ac2-4c44-b12a-2658d26424c2",
+  "placements": {
+    "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 1,
+    "0c42e460-46e8-48ef-9d98-355e5c880b34": 2
+  },
+  "ranking_awards": {
+    "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 30,
+    "0c42e460-46e8-48ef-9d98-355e5c880b34": 15
+  },
+  "reconnected": true,
+  "backend_restarted": true,
+  "final_scores": {
+    "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 10,
+    "0c42e460-46e8-48ef-9d98-355e5c880b34": 5
+  },
+  "client_results": [
+    {
+      "match_id": "2ec1c85d-3ac2-4c44-b12a-2658d26424c2",
+      "placements": {
+        "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 1,
+        "0c42e460-46e8-48ef-9d98-355e5c880b34": 2
+      },
+      "ranking_awards": {
+        "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 30,
+        "0c42e460-46e8-48ef-9d98-355e5c880b34": 15
+      },
+      "scores": {
+        "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 10,
+        "0c42e460-46e8-48ef-9d98-355e5c880b34": 5
+      }
+    },
+    {
+      "match_id": "2ec1c85d-3ac2-4c44-b12a-2658d26424c2",
+      "placements": {
+        "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 1,
+        "0c42e460-46e8-48ef-9d98-355e5c880b34": 2
+      },
+      "ranking_awards": {
+        "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 30,
+        "0c42e460-46e8-48ef-9d98-355e5c880b34": 15
+      },
+      "scores": {
+        "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 10,
+        "0c42e460-46e8-48ef-9d98-355e5c880b34": 5
+      }
+    }
+  ],
+  "identical_final_results": true,
+  "turns": 93,
+  "persisted_awards_verified": true,
+  "flutter_exit_code": 0,
+  "server_exit_codes": [
+    1,
+    1
+  ],
+  "controlled_servers_exited": true,
+  "verification_complete": true
+}

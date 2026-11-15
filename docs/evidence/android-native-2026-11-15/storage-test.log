@@ -1,0 +1,7 @@
+00:00 +0: loading C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/integration_test/native_storage_test.dart
+Running Gradle task 'assembleDebug'...                            126.0s
+√ Built build\app\outputs\flutter-apk\app-debug.apk
+Installing build\app\outputs\flutter-apk\app-debug.apk...           7.6s
+00:00 +0: native credential and SQLite persistence across reopen
+00:01 +1: (tearDownAll)
+00:02 +1: All tests passed!

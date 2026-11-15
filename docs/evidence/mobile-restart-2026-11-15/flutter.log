@@ -1,0 +1,21 @@
+00:00 +0: loading C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/two_client_live_test.dart
+00:00 +0: C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/two_client_live_test.dart: two authenticated UI clients complete a real match
+UI match progress: 10 opportunities, round 3
+UI match progress: 20 opportunities, round 5
+UI match progress: 30 opportunities, round 8
+UI match progress: 40 opportunities, round 10
+UI match progress: 50 opportunities, round 13
+UI match progress: 60 opportunities, round 15
+UI match progress: 70 opportunities, round 18
+UI match progress: 80 opportunities, round 20
+UI results verified
+UI evidence saved
+UI connections disposed
+UI databases closed
+UI cleanup resumed in test zone
+UI widgets unmounted
+UI final frame pumped
+05:13 +1: loading C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/cleanup_live_probe_test.dart
+05:15 +1: C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/cleanup_live_probe_test.dart: two live clients release all asynchronous resources
+Cleanup probe final frame pumped
+05:19 +2: All tests passed!

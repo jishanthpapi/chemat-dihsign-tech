@@ -1,0 +1,43 @@
+{"protocolVersion":"0.1.1","runnerVersion":null,"pid":17976,"type":"start","time":0}
+{"suite":{"id":0,"platform":"vm","path":"C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/cleanup_live_probe_test.dart"},"type":"suite","time":1}
+{"test":{"id":1,"name":"loading C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/cleanup_live_probe_test.dart","suiteID":0,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":3}
+{"count":4,"time":20,"type":"allSuites"}
+
+[{"event":"test.startedProcess","params":{"vmServiceUri":null}}]
+{"testID":1,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":30917}
+{"group":{"id":2,"suiteID":0,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":1,"line":null,"column":null,"url":null},"type":"group","time":30923}
+{"test":{"id":3,"name":"two live clients release all asynchronous resources","suiteID":0,"groupIDs":[2],"metadata":{"skip":true,"skipReason":null},"line":174,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":17,"root_column":3,"root_url":"file:///C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat%20dt/mobile/test/cleanup_live_probe_test.dart"},"type":"testStart","time":30925}
+{"testID":3,"result":"success","skipped":true,"hidden":false,"type":"testDone","time":30927}
+{"suite":{"id":4,"platform":"vm","path":"C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/game_widgets_test.dart"},"type":"suite","time":30976}
+{"test":{"id":5,"name":"loading C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/game_widgets_test.dart","suiteID":4,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":30976}
+
+[{"event":"test.startedProcess","params":{"vmServiceUri":null}}]
+{"testID":5,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":32747}
+{"group":{"id":6,"suiteID":4,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":4,"line":null,"column":null,"url":null},"type":"group","time":32748}
+{"test":{"id":7,"name":"dashboard task and server legal controls","suiteID":4,"groupIDs":[6],"metadata":{"skip":false,"skipReason":null},"line":174,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":130,"root_column":3,"root_url":"file:///C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat%20dt/mobile/test/game_widgets_test.dart"},"type":"testStart","time":32749}
+{"testID":7,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":35111}
+{"test":{"id":8,"name":"scanner submits selected owned instance IDs and active Task ID","suiteID":4,"groupIDs":[6],"metadata":{"skip":false,"skipReason":null},"line":174,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":147,"root_column":3,"root_url":"file:///C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat%20dt/mobile/test/game_widgets_test.dart"},"type":"testStart","time":35111}
+{"testID":8,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":37273}
+{"test":{"id":9,"name":"optional defence choices come from server","suiteID":4,"groupIDs":[6],"metadata":{"skip":false,"skipReason":null},"line":174,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":168,"root_column":3,"root_url":"file:///C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat%20dt/mobile/test/game_widgets_test.dart"},"type":"testStart","time":37273}
+{"testID":9,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":37774}
+{"test":{"id":10,"name":"results and connection loss are visible","suiteID":4,"groupIDs":[6],"metadata":{"skip":false,"skipReason":null},"line":174,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":186,"root_column":3,"root_url":"file:///C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat%20dt/mobile/test/game_widgets_test.dart"},"type":"testStart","time":37775}
+{"testID":10,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":37867}
+{"suite":{"id":11,"platform":"vm","path":"C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/two_client_live_test.dart"},"type":"suite","time":37900}
+{"test":{"id":12,"name":"loading C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/two_client_live_test.dart","suiteID":11,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":37901}
+
+[{"event":"test.startedProcess","params":{"vmServiceUri":null}}]
+{"testID":12,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":39310}
+{"group":{"id":13,"suiteID":11,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":1,"line":null,"column":null,"url":null},"type":"group","time":39311}
+{"test":{"id":14,"name":"two authenticated UI clients complete a real match","suiteID":11,"groupIDs":[13],"metadata":{"skip":true,"skipReason":null},"line":174,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":42,"root_column":3,"root_url":"file:///C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat%20dt/mobile/test/two_client_live_test.dart"},"type":"testStart","time":39311}
+{"testID":14,"result":"success","skipped":true,"hidden":false,"type":"testDone","time":39311}
+{"suite":{"id":15,"platform":"vm","path":"C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/widget_test.dart"},"type":"suite","time":39552}
+{"test":{"id":16,"name":"loading C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/widget_test.dart","suiteID":15,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":39552}
+
+[{"event":"test.startedProcess","params":{"vmServiceUri":null}}]
+{"testID":16,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":41297}
+{"group":{"id":17,"suiteID":15,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":41297}
+{"test":{"id":18,"name":"registration duplicate errors profile persistence and reset warning","suiteID":15,"groupIDs":[17],"metadata":{"skip":false,"skipReason":null},"line":174,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":71,"root_column":3,"root_url":"file:///C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat%20dt/mobile/test/widget_test.dart"},"type":"testStart","time":41297}
+{"testID":18,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":45378}
+{"test":{"id":19,"name":"session renewal and persisted profile contain no token","suiteID":15,"groupIDs":[17],"metadata":{"skip":false,"skipReason":null},"line":116,"column":3,"url":"file:///C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat%20dt/mobile/test/widget_test.dart"},"type":"testStart","time":45378}
+{"testID":19,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":45401}
+{"success":true,"type":"done","time":45441}

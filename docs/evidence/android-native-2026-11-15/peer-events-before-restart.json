@@ -1,0 +1,18 @@
+[
+  {
+    "match_id": "7e500238-2e1a-41d6-aa11-77b2d9636287",
+    "version": 2,
+    "phase": "regular",
+    "round": 1,
+    "current": "a10b7837-6d57-42ec-82e4-4e5866d3248c",
+    "peer_id": "98fef488-6385-4d83-9603-7c5fc11da5e7"
+  },
+  {
+    "match_id": "7e500238-2e1a-41d6-aa11-77b2d9636287",
+    "version": 7,
+    "phase": "reaction",
+    "round": 1,
+    "current": "98fef488-6385-4d83-9603-7c5fc11da5e7",
+    "peer_id": "98fef488-6385-4d83-9603-7c5fc11da5e7"
+  }
+]

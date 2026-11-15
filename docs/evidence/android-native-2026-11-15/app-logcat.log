@@ -1,0 +1,3 @@
+--------- beginning of main
+11-15 17:22:36.417 22972 23015 I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_vk_impeller.cc(74)] Using the Impeller rendering backend (Vulkan).
+11-15 17:22:36.560 22972 23029 I flutter : The Dart VM service is listening on [redacted ephemeral debug URL]

@@ -1,0 +1,619 @@
+{
+  "match_id": "2ec1c85d-3ac2-4c44-b12a-2658d26424c2",
+  "placements": {
+    "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 1,
+    "0c42e460-46e8-48ef-9d98-355e5c880b34": 2
+  },
+  "ranking_awards": {
+    "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 30,
+    "0c42e460-46e8-48ef-9d98-355e5c880b34": 15
+  },
+  "reconnected": true,
+  "backend_restarted": true,
+  "final_scores": {
+    "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 10,
+    "0c42e460-46e8-48ef-9d98-355e5c880b34": 5
+  },
+  "client_results": [
+    {
+      "match_id": "2ec1c85d-3ac2-4c44-b12a-2658d26424c2",
+      "placements": {
+        "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 1,
+        "0c42e460-46e8-48ef-9d98-355e5c880b34": 2
+      },
+      "ranking_awards": {
+        "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 30,
+        "0c42e460-46e8-48ef-9d98-355e5c880b34": 15
+      },
+      "scores": {
+        "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 10,
+        "0c42e460-46e8-48ef-9d98-355e5c880b34": 5
+      }
+    },
+    {
+      "match_id": "2ec1c85d-3ac2-4c44-b12a-2658d26424c2",
+      "placements": {
+        "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 1,
+        "0c42e460-46e8-48ef-9d98-355e5c880b34": 2
+      },
+      "ranking_awards": {
+        "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 30,
+        "0c42e460-46e8-48ef-9d98-355e5c880b34": 15
+      },
+      "scores": {
+        "37e4e9e6-7830-4890-af70-a0c12aff2fe3": 10,
+        "0c42e460-46e8-48ef-9d98-355e5c880b34": 5
+      }
+    }
+  ],
+  "identical_final_results": true,
+  "turns": 93,
+  "log": [
+    {
+      "step": 0,
+      "phase": "regular",
+      "player": 1,
+      "round": 1
+    },
+    {
+      "step": 1,
+      "phase": "regular",
+      "player": 0,
+      "round": 1
+    },
+    {
+      "step": 2,
+      "phase": "reaction",
+      "player": 1,
+      "round": 1
+    },
+    {
+      "step": 3,
+      "phase": "reaction",
+      "player": 0,
+      "round": 1
+    },
+    {
+      "step": 4,
+      "phase": "reaction",
+      "player": 0,
+      "round": 1
+    },
+    {
+      "step": 5,
+      "phase": "regular",
+      "player": 1,
+      "round": 2
+    },
+    {
+      "step": 6,
+      "phase": "regular",
+      "player": 0,
+      "round": 2
+    },
+    {
+      "step": 7,
+      "phase": "reaction",
+      "player": 1,
+      "round": 2
+    },
+    {
+      "step": 8,
+      "phase": "reaction",
+      "player": 0,
+      "round": 2
+    },
+    {
+      "step": 9,
+      "phase": "regular",
+      "player": 1,
+      "round": 3
+    },
+    {
+      "step": 10,
+      "phase": "regular",
+      "player": 0,
+      "round": 3
+    },
+    {
+      "step": 11,
+      "phase": "reaction",
+      "player": 1,
+      "round": 3
+    },
+    {
+      "step": 12,
+      "phase": "reaction",
+      "player": 0,
+      "round": 3
+    },
+    {
+      "step": 13,
+      "phase": "regular",
+      "player": 1,
+      "round": 4
+    },
+    {
+      "step": 14,
+      "phase": "regular",
+      "player": 0,
+      "round": 4
+    },
+    {
+      "step": 15,
+      "phase": "reaction",
+      "player": 1,
+      "round": 4
+    },
+    {
+      "step": 16,
+      "phase": "reaction",
+      "player": 0,
+      "round": 4
+    },
+    {
+      "step": 17,
+      "phase": "regular",
+      "player": 1,
+      "round": 5
+    },
+    {
+      "step": 18,
+      "phase": "regular",
+      "player": 0,
+      "round": 5
+    },
+    {
+      "step": 19,
+      "phase": "reaction",
+      "player": 1,
+      "round": 5
+    },
+    {
+      "step": 20,
+      "phase": "reaction",
+      "player": 0,
+      "round": 5
+    },
+    {
+      "step": 21,
+      "phase": "regular",
+      "player": 1,
+      "round": 6
+    },
+    {
+      "step": 22,
+      "phase": "regular",
+      "player": 0,
+      "round": 6
+    },
+    {
+      "step": 23,
+      "phase": "reaction",
+      "player": 1,
+      "round": 6
+    },
+    {
+      "step": 24,
+      "phase": "reaction",
+      "player": 0,
+      "round": 6
+    },
+    {
+      "step": 25,
+      "phase": "regular",
+      "player": 1,
+      "round": 7
+    },
+    {
+      "step": 26,
+      "phase": "regular",
+      "player": 0,
+      "round": 7
+    },
+    {
+      "step": 27,
+      "phase": "reaction",
+      "player": 1,
+      "round": 7
+    },
+    {
+      "step": 28,
+      "phase": "reaction",
+      "player": 0,
+      "round": 7
+    },
+    {
+      "step": 29,
+      "phase": "regular",
+      "player": 1,
+      "round": 8
+    },
+    {
+      "step": 30,
+      "phase": "regular",
+      "player": 0,
+      "round": 8
+    },
+    {
+      "step": 31,
+      "phase": "reaction",
+      "player": 1,
+      "round": 8
+    },
+    {
+      "step": 32,
+      "phase": "reaction",
+      "player": 0,
+      "round": 8
+    },
+    {
+      "step": 33,
+      "phase": "regular",
+      "player": 1,
+      "round": 9
+    },
+    {
+      "step": 34,
+      "phase": "regular",
+      "player": 0,
+      "round": 9
+    },
+    {
+      "step": 35,
+      "phase": "reaction",
+      "player": 1,
+      "round": 9
+    },
+    {
+      "step": 36,
+      "phase": "reaction",
+      "player": 0,
+      "round": 9
+    },
+    {
+      "step": 37,
+      "phase": "regular",
+      "player": 1,
+      "round": 10
+    },
+    {
+      "step": 38,
+      "phase": "regular",
+      "player": 0,
+      "round": 10
+    },
+    {
+      "step": 39,
+      "phase": "reaction",
+      "player": 1,
+      "round": 10
+    },
+    {
+      "step": 40,
+      "phase": "reaction",
+      "player": 0,
+      "round": 10
+    },
+    {
+      "step": 41,
+      "phase": "regular",
+      "player": 1,
+      "round": 11
+    },
+    {
+      "step": 42,
+      "phase": "regular",
+      "player": 0,
+      "round": 11
+    },
+    {
+      "step": 43,
+      "phase": "reaction",
+      "player": 1,
+      "round": 11
+    },
+    {
+      "step": 44,
+      "phase": "reaction",
+      "player": 0,
+      "round": 11
+    },
+    {
+      "step": 45,
+      "phase": "regular",
+      "player": 1,
+      "round": 12
+    },
+    {
+      "step": 46,
+      "phase": "regular",
+      "player": 0,
+      "round": 12
+    },
+    {
+      "step": 47,
+      "phase": "reaction",
+      "player": 1,
+      "round": 12
+    },
+    {
+      "step": 48,
+      "phase": "reaction",
+      "player": 0,
+      "round": 12
+    },
+    {
+      "step": 49,
+      "phase": "regular",
+      "player": 1,
+      "round": 13
+    },
+    {
+      "step": 50,
+      "phase": "regular",
+      "player": 0,
+      "round": 13
+    },
+    {
+      "step": 51,
+      "phase": "reaction",
+      "player": 1,
+      "round": 13
+    },
+    {
+      "step": 52,
+      "phase": "reaction",
+      "player": 0,
+      "round": 13
+    },
+    {
+      "step": 53,
+      "phase": "regular",
+      "player": 1,
+      "round": 14
+    },
+    {
+      "step": 54,
+      "phase": "regular",
+      "player": 0,
+      "round": 14
+    },
+    {
+      "step": 55,
+      "phase": "reaction",
+      "player": 1,
+      "round": 14
+    },
+    {
+      "step": 56,
+      "phase": "reaction",
+      "player": 0,
+      "round": 14
+    },
+    {
+      "step": 57,
+      "phase": "regular",
+      "player": 1,
+      "round": 15
+    },
+    {
+      "step": 58,
+      "phase": "regular",
+      "player": 0,
+      "round": 15
+    },
+    {
+      "step": 59,
+      "phase": "reaction",
+      "player": 1,
+      "round": 15
+    },
+    {
+      "step": 60,
+      "phase": "reaction",
+      "player": 0,
+      "round": 15
+    },
+    {
+      "step": 61,
+      "phase": "regular",
+      "player": 1,
+      "round": 16
+    },
+    {
+      "step": 62,
+      "phase": "regular",
+      "player": 0,
+      "round": 16
+    },
+    {
+      "step": 63,
+      "phase": "reaction",
+      "player": 1,
+      "round": 16
+    },
+    {
+      "step": 64,
+      "phase": "reaction",
+      "player": 0,
+      "round": 16
+    },
+    {
+      "step": 65,
+      "phase": "regular",
+      "player": 1,
+      "round": 17
+    },
+    {
+      "step": 66,
+      "phase": "regular",
+      "player": 0,
+      "round": 17
+    },
+    {
+      "step": 67,
+      "phase": "reaction",
+      "player": 1,
+      "round": 17
+    },
+    {
+      "step": 68,
+      "phase": "reaction",
+      "player": 0,
+      "round": 17
+    },
+    {
+      "step": 69,
+      "phase": "regular",
+      "player": 1,
+      "round": 18
+    },
+    {
+      "step": 70,
+      "phase": "regular",
+      "player": 0,
+      "round": 18
+    },
+    {
+      "step": 71,
+      "phase": "reaction",
+      "player": 1,
+      "round": 18
+    },
+    {
+      "step": 72,
+      "phase": "reaction",
+      "player": 0,
+      "round": 18
+    },
+    {
+      "step": 73,
+      "phase": "regular",
+      "player": 1,
+      "round": 19
+    },
+    {
+      "step": 74,
+      "phase": "regular",
+      "player": 0,
+      "round": 19
+    },
+    {
+      "step": 75,
+      "phase": "reaction",
+      "player": 1,
+      "round": 19
+    },
+    {
+      "step": 76,
+      "phase": "reaction",
+      "player": 0,
+      "round": 19
+    },
+    {
+      "step": 77,
+      "phase": "regular",
+      "player": 1,
+      "round": 20
+    },
+    {
+      "step": 78,
+      "phase": "regular",
+      "player": 0,
+      "round": 20
+    },
+    {
+      "step": 79,
+      "phase": "reaction",
+      "player": 1,
+      "round": 20
+    },
+    {
+      "step": 80,
+      "phase": "reaction",
+      "player": 0,
+      "round": 20
+    },
+    {
+      "step": 81,
+      "phase": "regular",
+      "player": 1,
+      "round": 21
+    },
+    {
+      "step": 82,
+      "phase": "regular",
+      "player": 0,
+      "round": 21
+    },
+    {
+      "step": 83,
+      "phase": "reaction",
+      "player": 1,
+      "round": 21
+    },
+    {
+      "step": 84,
+      "phase": "reaction",
+      "player": 0,
+      "round": 21
+    },
+    {
+      "step": 85,
+      "phase": "regular",
+      "player": 1,
+      "round": 22
+    },
+    {
+      "step": 86,
+      "phase": "regular",
+      "player": 0,
+      "round": 22
+    },
+    {
+      "step": 87,
+      "phase": "reaction",
+      "player": 1,
+      "round": 22
+    },
+    {
+      "step": 88,
+      "phase": "reaction",
+      "player": 0,
+      "round": 22
+    },
+    {
+      "step": 89,
+      "phase": "regular",
+      "player": 1,
+      "round": 23
+    },
+    {
+      "step": 90,
+      "phase": "regular",
+      "player": 0,
+      "round": 23
+    },
+    {
+      "step": 91,
+      "phase": "reaction",
+      "player": 1,
+      "round": 23
+    },
+    {
+      "step": 92,
+      "phase": "reaction",
+      "player": 0,
+      "round": 23
+    }
+  ],
+  "persisted_awards_verified": true,
+  "flutter_exit_code": 0,
+  "server_exit_codes": [
+    1,
+    1
+  ],
+  "controlled_servers_exited": true,
+  "verification_complete": true
+}

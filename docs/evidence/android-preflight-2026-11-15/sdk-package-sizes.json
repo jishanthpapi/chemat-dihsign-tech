@@ -1,0 +1,32 @@
+{
+  "source": "https://dl.google.com/android/repository/repository2-3.xml",
+  "packages": [
+    {
+      "package": "platforms;android-36",
+      "download_bytes": 65878410,
+      "archive": "platform-36_r02.zip"
+    },
+    {
+      "package": "ndk;28.2.13676358",
+      "download_bytes": 748118221,
+      "archive": "android-ndk-r28c-windows.zip"
+    },
+    {
+      "package": "build-tools;36.0.0",
+      "download_bytes": 58699878,
+      "archive": "build-tools_r36_windows.zip"
+    },
+    {
+      "package": "cmdline-tools;latest",
+      "download_bytes": 154957218,
+      "archive": "commandlinetools-win-16111833_latest.zip"
+    },
+    {
+      "package": "platform-tools",
+      "download_bytes": 8044989,
+      "archive": "platform-tools_r37.0.1-win.zip"
+    }
+  ],
+  "compressed_bytes_total": 1035698716,
+  "note": "Stable SDK archive sizes only; excludes extracted files, JDK, Gradle, Maven, caches and build outputs. No packages downloaded."
+}

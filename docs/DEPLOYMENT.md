@@ -1,0 +1,16 @@
+# Deployment and development
+
+Backend prerequisites: Python 3.11+, pip and optional Make; Docker/Compose for containers. Flutter stable with compatible Dart, Android SDK/JDK for Android; macOS and Xcode for iOS. There are no credentials or external services needed for the M1 tests.
+
+Run `docker compose up --build` from repository root. Inspect `http://localhost:8000/health`; stop with `docker compose down`. The named volume persists the implemented server SQLite database, including matches, credentials, friendships, receipts and season awards. CHEMAT_DATABASE_PATH, CHEMAT_TURN_SECONDS and CHEMAT_NEGOTIATION_SECONDS configure the service; see .env.example. Run one worker for process-local socket broadcasts. The catalog is bundled into the installed Python package.
+
+For a hosted development backend, build this Dockerfile on a host with a persistent local disk, mount `/app/storage`, back up SQLite consistently with SQLite's backup API, and terminate TLS with a reverse proxy supporting WebSocket upgrades and suitable idle timeouts. Use one worker. Configure production rate limits, credential recovery/rotation and access controls before public release. Approved forfeits and mandatory-choice timeouts are implemented; public-release recovery and ranked anti-collusion work remain documented in OPEN_DECISIONS.md. Never put secrets in the image or repository.
+
+Android: use the existing native project, configure Android SDK/JDK and application ID, run `flutter doctor`, `flutter test`, then `flutter build apk --debug` for testing or `flutter build appbundle --release` for distribution. Configure release signing with external secrets before publishing. Native setup, real storage and device networking checks are in NATIVE_ACCEPTANCE.md.
+
+iOS: on macOS use the existing iOS host project, install Xcode command-line tools and required Flutter dependencies, run `flutter doctor`, `flutter test`, then `flutter build ios --no-codesign` for compilation validation. Configure bundle ID, signing team, provisioning and capabilities in Xcode before `flutter build ipa`. iOS signing and App Store distribution require Apple developer tooling and an appropriate developer account. Windows cannot validate an iOS build.
+
+CI includes engine/health, Flutter widget/live and Android debug-build jobs. Runtime multi-device acceptance and Docker execution remain separate gates. Flutter uses the reviewed pubspec.lock; backend dependency ranges remain development bounds.
+
+## Current verification checkpoint
+After explicit user approval and disk cleanup, JDK 17 and the Android SDK were installed outside OneDrive and Flutter configured to use them. Flutter 3.50.0/Dart 3.14.0 built and launched a debug APK on Samsung SM-M066B (Android 16/API 36). Real secure-storage/SQLite, registration/authentication, force-stop/relaunch persistence and backend restart recovery passed on that phone. Native debug networking used USB-forwarded HTTP/WS. A second participant used the host API for the recovery smoke test; no two-Android-device full match or native HTTPS/WSS deployment is claimed. Debug signing/example application ID, additional device/OS coverage and public-release anti-abuse/recovery work remain release gates. iOS and Docker execution remain unverified. See [NATIVE_ACCEPTANCE.md](NATIVE_ACCEPTANCE.md) for exact scope and evidence.

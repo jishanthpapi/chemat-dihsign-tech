@@ -1,0 +1,78 @@
+00:00 +0: loading C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/two_client_live_test.dart
+00:00 +0: C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/two_client_live_test.dart: two authenticated UI clients complete a real match
+UI match progress: 10 opportunities, round 3
+UI match progress: 20 opportunities, round 5
+UI match progress: 30 opportunities, round 8
+UI match progress: 40 opportunities, round 10
+UI match progress: 50 opportunities, round 13
+UI match progress: 60 opportunities, round 15
+UI match progress: 70 opportunities, round 18
+UI match progress: 80 opportunities, round 20
+UI match progress: 90 opportunities, round 23
+UI match progress: 100 opportunities, round 25
+UI results verified
+UI evidence saved
+UI connections disposed
+UI databases closed
+UI cleanup resumed in test zone
+UI widgets unmounted
+UI final frame pumped
+Pending timers:
+Timer (duration: 0:00:05.000000, periodic: false), created:
+#0      new FakeTimer._ (package:fake_async/fake_async.dart:342:62)
+#1      FakeAsync._createTimer (package:fake_async/fake_async.dart:260:29)
+#2      FakeAsync.run.<anonymous closure> (package:fake_async/fake_async.dart:185:15)
+#5      _WebSocketImpl.close (dart:_http/websocket_impl.dart:1717:23)
+#6      IOWebSocket.close (package:web_socket/src/io_web_socket.dart:113:24)
+#7      new AdapterWebSocketChannel.<anonymous closure>.<anonymous closure> (package:web_socket_channel/adapter_web_socket_channel.dart:112:27)
+#17     new GuaranteeChannel.<anonymous closure>.<anonymous closure> (package:stream_channel/src/guarantee_channel.dart:55:31)
+#28     _GuaranteeSink.close (package:stream_channel/src/guarantee_channel.dart:188:38)
+#29     DelegatingStreamSink.close (package:async/src/delegate/stream_sink.dart:48:27)
+#30     _WebSocketSink.close (package:web_socket_channel/adapter_web_socket_channel.dart:147:18)
+#31     AppController.dispose (package:chemat/app/controller.dart:364:19)
+#32     main.<anonymous closure>.<anonymous closure> (file:///C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat%20dt/mobile/test/two_client_live_test.dart:419:13)
+#33     AutomatedTestWidgetsFlutterBinding.runAsync.<anonymous closure> (package:flutter_test/src/binding.dart:2416:17)
+#35     AutomatedTestWidgetsFlutterBinding.runAsync (package:flutter_test/src/binding.dart:2412:26)
+#36     WidgetTester.runAsync (package:flutter_test/src/widget_tester.dart:838:17)
+#37     main.<anonymous closure> (file:///C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat%20dt/mobile/test/two_client_live_test.dart:417:20)
+<asynchronous suspension>
+#38     testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#39     TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1968:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided 23 frames from dart:async and package:stack_trace)
+
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following assertion was thrown running invariant verifications after a test:
+A Timer is still pending even after the widget tree was disposed.
+'package:flutter_test/src/binding.dart':
+Failed assertion: line 2657 pos 12: '!timersPending'
+
+When the exception was thrown, this was the stack:
+#2      AutomatedTestWidgetsFlutterBinding._verifyInvariants (package:flutter_test/src/binding.dart:2657:12)
+#3      TestWidgetsFlutterBinding.postTest (package:flutter_test/src/binding.dart:2207:9)
+#4      AutomatedTestWidgetsFlutterBinding.postTest (package:flutter_test/src/binding.dart:2662:11)
+#6      Invoker.runTearDowns.<anonymous closure>.<anonymous closure> (package:test_api/src/backend/invoker.dart:296:18)
+#7      Invoker._waitForOutstandingCallbacks.<anonymous closure> (package:test_api/src/backend/invoker.dart:318:17)
+#10     Invoker._waitForOutstandingCallbacks (package:test_api/src/backend/invoker.dart:314:5)
+#11     Invoker.runTearDowns.<anonymous closure> (package:test_api/src/backend/invoker.dart:295:9)
+#14     Invoker.runTearDowns (package:test_api/src/backend/invoker.dart:290:12)
+#15     Invoker._onRun.<anonymous closure>.<anonymous closure>.<anonymous closure>.<anonymous closure> (package:test_api/src/backend/invoker.dart:459:23)
+#16     Invoker._waitForOutstandingCallbacks.<anonymous closure> (package:test_api/src/backend/invoker.dart:318:17)
+#19     Invoker._waitForOutstandingCallbacks (package:test_api/src/backend/invoker.dart:314:5)
+#20     Invoker._onRun.<anonymous closure>.<anonymous closure>.<anonymous closure> (package:test_api/src/backend/invoker.dart:458:21)
+<asynchronous suspension>
+(elided 9 frames from class _AssertionError and dart:async)
+════════════════════════════════════════════════════════════════════════════════════════════════════
+06:33 +0 -1: C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/two_client_live_test.dart: two authenticated UI clients complete a real match [E]
+  Test failed. See exception logs above.
+  The test description was: two authenticated UI clients complete a real match
+
+06:33 +0 -1: loading C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/cleanup_live_probe_test.dart
+06:35 +0 -1: C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/cleanup_live_probe_test.dart: two live clients release all asynchronous resources
+Cleanup probe final frame pumped
+06:40 +1 -1: Some tests failed.
+
+Failing tests:
+  C:/Users/jisha/OneDrive/Documents/ChatGPT/chemat dt/mobile/test/two_client_live_test.dart: two authenticated UI clients complete a real match

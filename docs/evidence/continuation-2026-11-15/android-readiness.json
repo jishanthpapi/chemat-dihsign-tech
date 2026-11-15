@@ -1,0 +1,11 @@
+{
+  "doctor": {
+    "exit_code": 0
+  },
+  "devices": {
+    "exit_code": 0
+  },
+  "android_devices": [],
+  "native_acceptance_verified": false,
+  "next_command": "flutter test integration_test/native_storage_test.dart -d <android-device-id>"
+}

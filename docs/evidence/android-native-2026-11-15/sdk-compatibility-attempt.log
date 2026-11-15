@@ -1,0 +1,32 @@
+WARNING: The SDK Manager CLI tool (sdkmanager) is deprecated. Android CLI will be used instead.
+The 'android' binary can also be found in the cmdline-tools directory, and 'android sdk' is the replacement for 'sdkmanager'.
+To learn more about the Android CLI and how to use it, see the documentation (https://d.android.com/tools/agents/android-cli)
+
+Downloading Android CLI...
+Unpacking embedded installation...
+OpenJDK 64-Bit Server VM warning: The UseAllWindowsProcessorGroups flag is not supported on this Windows version and will be ignored.
+
+Terms of Service and License Agreement for the Android Software Development Kit
+
+https://developer.android.com/studio/terms
+
+Google collects usage data for the Android CLI, such as commands, sub-commands, and flags used. This data does not include custom parameters or identifiable information. This information helps improve the tool and is collected in accordance with Google's Privacy Policy.
+
+https://policies.google.com/privacy
+
+Disable Android CLI metrics collection by using the --no-metrics flag.
+
+Tip: For the best experience using Android CLI with agents, we strongly recommend running android init to install the necessary skills and resources.
+Package platforms not found.
+Package android-36 not found.
+Package build-tools not found.
+Package 36.0.0 not found.
+Package ndk not found.
+Package 28.2.13676358 not found.
+
+...dl.google.com/android/repository/platform-tools_r37.0.1-win.zip [..........]   0% (   1.2 KB/   7.7 MB) ETA: -----
+...dl.google.com/android/repository/platform-tools_r37.0.1-win.zip [#####.....]  53% (   4.1 MB/   7.7 MB) ETA:    1s
+...dl.google.com/android/repository/platform-tools_r37.0.1-win.zip [##########] 100% (   7.7 MB/   7.7 MB) ETA: -----
+
+Unzipping platform-tools... [.................................................]   0% (      0 B/  16.7 MB) ETA: -----
+Unzipping platform-tools... [#################################################] 100% (  16.7 MB/  16.7 MB) ETA: -----

@@ -1,0 +1,16 @@
+{
+  "player_id": "a10b7837-6d57-42ec-82e4-4e5866d3248c",
+  "username": "native-samsung-1115",
+  "endpoint": "http://127.0.0.1:8000",
+  "sqlite_profile_keys": [
+    "created",
+    "endpoint",
+    "id",
+    "lobby",
+    "match_id",
+    "username"
+  ],
+  "same_identity_after_force_stop": true,
+  "credential_fields_in_profile": false,
+  "renewed_session_after_relaunch": true
+}

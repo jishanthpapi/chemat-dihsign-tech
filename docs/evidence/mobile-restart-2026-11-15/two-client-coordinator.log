@@ -1,0 +1,60 @@
+Backend restarted; waiting for both app clients to recover
+{
+  "match_id": "3c353ac6-18c7-4d29-b167-9d3508c64d1c",
+  "placements": {
+    "9746afb4-63b3-4cc9-9783-bd726fb79707": 1,
+    "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 2
+  },
+  "ranking_awards": {
+    "9746afb4-63b3-4cc9-9783-bd726fb79707": 30,
+    "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 15
+  },
+  "reconnected": true,
+  "backend_restarted": true,
+  "final_scores": {
+    "9746afb4-63b3-4cc9-9783-bd726fb79707": 14,
+    "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 5
+  },
+  "client_results": [
+    {
+      "match_id": "3c353ac6-18c7-4d29-b167-9d3508c64d1c",
+      "placements": {
+        "9746afb4-63b3-4cc9-9783-bd726fb79707": 1,
+        "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 2
+      },
+      "ranking_awards": {
+        "9746afb4-63b3-4cc9-9783-bd726fb79707": 30,
+        "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 15
+      },
+      "scores": {
+        "9746afb4-63b3-4cc9-9783-bd726fb79707": 14,
+        "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 5
+      }
+    },
+    {
+      "match_id": "3c353ac6-18c7-4d29-b167-9d3508c64d1c",
+      "placements": {
+        "9746afb4-63b3-4cc9-9783-bd726fb79707": 1,
+        "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 2
+      },
+      "ranking_awards": {
+        "9746afb4-63b3-4cc9-9783-bd726fb79707": 30,
+        "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 15
+      },
+      "scores": {
+        "9746afb4-63b3-4cc9-9783-bd726fb79707": 14,
+        "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 5
+      }
+    }
+  ],
+  "identical_final_results": true,
+  "turns": 81,
+  "persisted_awards_verified": true,
+  "flutter_exit_code": 0,
+  "server_exit_codes": [
+    1,
+    1
+  ],
+  "controlled_servers_exited": true,
+  "verification_complete": true
+}

@@ -1,0 +1,701 @@
+{
+  "schema_version": 1,
+  "authority": "Complete rulebook; see docs/OPEN_DECISIONS.md",
+  "reactant": [
+    {
+      "name": "Calcium chloride",
+      "formula": "CaCl₂",
+      "copies": 4
+    },
+    {
+      "name": "Sodium carbonate",
+      "formula": "Na₂CO₃",
+      "copies": 4
+    },
+    {
+      "name": "Magnesium chloride",
+      "formula": "MgCl₂",
+      "copies": 3
+    },
+    {
+      "name": "Sodium hydroxide",
+      "formula": "NaOH",
+      "copies": 9
+    },
+    {
+      "name": "Aluminium chloride",
+      "formula": "AlCl₃",
+      "copies": 3
+    },
+    {
+      "name": "Potassium sulfate",
+      "formula": "K₂SO₄",
+      "copies": 2
+    },
+    {
+      "name": "Aluminium sulfate",
+      "formula": "Al₂(SO₄)₃",
+      "copies": 2
+    },
+    {
+      "name": "Water",
+      "formula": "H₂O",
+      "copies": 5
+    },
+    {
+      "name": "Citric acid",
+      "formula": "C₆H₈O₇",
+      "copies": 2
+    },
+    {
+      "name": "Acetic acid",
+      "formula": "CH₃COOH",
+      "copies": 5
+    },
+    {
+      "name": "Copper(II) oxide",
+      "formula": "CuO",
+      "copies": 2
+    },
+    {
+      "name": "Iron(III) chloride",
+      "formula": "FeCl₃",
+      "copies": 5
+    },
+    {
+      "name": "Copper(II) sulfate",
+      "formula": "CuSO₄",
+      "copies": 2
+    },
+    {
+      "name": "Zinc sulfate",
+      "formula": "ZnSO₄",
+      "copies": 2
+    },
+    {
+      "name": "Sodium phosphate",
+      "formula": "Na₃PO₄",
+      "copies": 2
+    },
+    {
+      "name": "Calcium hydroxide",
+      "formula": "Ca(OH)₂",
+      "copies": 2
+    },
+    {
+      "name": "Phosphoric acid",
+      "formula": "H₃PO₄",
+      "copies": 2
+    },
+    {
+      "name": "Lactic acid",
+      "formula": "C₃H₆O₃",
+      "copies": 2
+    },
+    {
+      "name": "Calcium carbonate",
+      "formula": "CaCO₃",
+      "copies": 4
+    },
+    {
+      "name": "Gluconic acid",
+      "formula": "C₆H₁₂O₇",
+      "copies": 2
+    },
+    {
+      "name": "Iron(II) chloride",
+      "formula": "FeCl₂",
+      "copies": 2
+    },
+    {
+      "name": "Sodium oxalate",
+      "formula": "Na₂C₂O₄",
+      "copies": 2
+    },
+    {
+      "name": "Potassium oxalate",
+      "formula": "K₂C₂O₄",
+      "copies": 2
+    },
+    {
+      "name": "Acetylacetone",
+      "formula": "C₅H₈O₂",
+      "copies": 2
+    },
+    {
+      "name": "Sodium silicate",
+      "formula": "Na₂SiO₃",
+      "copies": 2
+    },
+    {
+      "name": "Hydrochloric acid",
+      "formula": "HCl",
+      "copies": 2
+    },
+    {
+      "name": "Salicylic acid",
+      "formula": "C₇H₆O₃",
+      "copies": 2
+    },
+    {
+      "name": "Acetic anhydride",
+      "formula": "(CH₃CO)₂O",
+      "copies": 2
+    },
+    {
+      "name": "Ethanol",
+      "formula": "C₂H₅OH",
+      "copies": 2
+    }
+  ],
+  "apparatus": [
+    {
+      "name": "Beaker",
+      "copies": 8
+    },
+    {
+      "name": "Stirring rod",
+      "copies": 7
+    },
+    {
+      "name": "Evaporating dish",
+      "copies": 3
+    },
+    {
+      "name": "Filter funnel",
+      "copies": 3
+    },
+    {
+      "name": "Reaction flask",
+      "copies": 4
+    },
+    {
+      "name": "Fume hood",
+      "copies": 2
+    },
+    {
+      "name": "Heating plate",
+      "copies": 3
+    }
+  ],
+  "task": [
+    {
+      "name": "Calcium carbonate",
+      "formula": "CaCO₃",
+      "difficulty": "easy",
+      "points": 1,
+      "copies": 2,
+      "reactants": [
+        "Calcium chloride",
+        "Sodium carbonate"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Stirring rod"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Magnesium hydroxide",
+      "formula": "Mg(OH)₂",
+      "difficulty": "easy",
+      "points": 1,
+      "copies": 2,
+      "reactants": [
+        "Magnesium chloride",
+        "Sodium hydroxide"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Stirring rod"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Aluminium hydroxide",
+      "formula": "Al(OH)₃",
+      "difficulty": "easy",
+      "points": 1,
+      "copies": 2,
+      "reactants": [
+        "Aluminium chloride",
+        "Sodium hydroxide"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Stirring rod"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Potassium alum",
+      "formula": "KAl(SO₄)₂·12H₂O",
+      "difficulty": "easy",
+      "points": 1,
+      "copies": 2,
+      "reactants": [
+        "Potassium sulfate",
+        "Aluminium sulfate",
+        "Water"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Evaporating dish"
+      ],
+      "fee": 10,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Sodium citrate",
+      "formula": "Na₃C₆H₅O₇",
+      "difficulty": "easy",
+      "points": 1,
+      "copies": 2,
+      "reactants": [
+        "Citric acid",
+        "Sodium hydroxide"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Stirring rod"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Sodium acetate",
+      "formula": "CH₃COONa",
+      "difficulty": "easy",
+      "points": 1,
+      "copies": 2,
+      "reactants": [
+        "Acetic acid",
+        "Sodium hydroxide"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Stirring rod"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Copper(II) acetate",
+      "formula": "Cu(CH₃COO)₂",
+      "difficulty": "easy",
+      "points": 1,
+      "copies": 2,
+      "reactants": [
+        "Copper(II) oxide",
+        "Acetic acid"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Filter funnel"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Iron(III) hydroxide",
+      "formula": "Fe(OH)₃",
+      "difficulty": "easy",
+      "points": 1,
+      "copies": 2,
+      "reactants": [
+        "Iron(III) chloride",
+        "Sodium hydroxide"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Stirring rod"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Copper(II) hydroxide",
+      "formula": "Cu(OH)₂",
+      "difficulty": "easy",
+      "points": 1,
+      "copies": 2,
+      "reactants": [
+        "Copper(II) sulfate",
+        "Sodium hydroxide"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Stirring rod"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Zinc carbonate",
+      "formula": "ZnCO₃",
+      "difficulty": "easy",
+      "points": 1,
+      "copies": 2,
+      "reactants": [
+        "Zinc sulfate",
+        "Sodium carbonate"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Stirring rod"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Tricalcium phosphate",
+      "formula": "Ca₃(PO₄)₂",
+      "difficulty": "medium",
+      "points": 3,
+      "copies": 2,
+      "reactants": [
+        "Calcium chloride",
+        "Sodium phosphate"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Stirring rod"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Hydroxyapatite",
+      "formula": "Ca₁₀(PO₄)₆(OH)₂",
+      "difficulty": "medium",
+      "points": 3,
+      "copies": 2,
+      "reactants": [
+        "Calcium hydroxide",
+        "Phosphoric acid"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Stirring rod"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Calcium lactate",
+      "formula": "Ca(C₃H₅O₃)₂",
+      "difficulty": "medium",
+      "points": 3,
+      "copies": 2,
+      "reactants": [
+        "Lactic acid",
+        "Calcium carbonate"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Stirring rod"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Calcium gluconate",
+      "formula": "Ca(C₆H₁₁O₇)₂",
+      "difficulty": "medium",
+      "points": 3,
+      "copies": 2,
+      "reactants": [
+        "Gluconic acid",
+        "Calcium carbonate"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Stirring rod"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Iron(II) oxalate",
+      "formula": "FeC₂O₄",
+      "difficulty": "medium",
+      "points": 3,
+      "copies": 2,
+      "reactants": [
+        "Iron(II) chloride",
+        "Sodium oxalate"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Stirring rod"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Potassium ferrioxalate",
+      "formula": "K₃[Fe(C₂O₄)₃]",
+      "difficulty": "hard",
+      "points": 5,
+      "copies": 1,
+      "reactants": [
+        "Iron(III) chloride",
+        "Potassium oxalate"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Evaporating dish"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Iron(III) acetylacetonate",
+      "formula": "Fe(C₅H₇O₂)₃",
+      "difficulty": "hard",
+      "points": 5,
+      "copies": 1,
+      "reactants": [
+        "Iron(III) chloride",
+        "Acetylacetone",
+        "Sodium hydroxide"
+      ],
+      "apparatus": [
+        "Reaction flask",
+        "Fume hood"
+      ],
+      "fee": 10,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Silica gel",
+      "formula": "SiO₂·nH₂O",
+      "difficulty": "hard",
+      "points": 5,
+      "copies": 1,
+      "reactants": [
+        "Sodium silicate",
+        "Hydrochloric acid"
+      ],
+      "apparatus": [
+        "Beaker",
+        "Stirring rod"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Aspirin",
+      "formula": "C₉H₈O₄",
+      "difficulty": "hard",
+      "points": 5,
+      "copies": 1,
+      "reactants": [
+        "Salicylic acid",
+        "Acetic anhydride"
+      ],
+      "apparatus": [
+        "Reaction flask",
+        "Heating plate"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    },
+    {
+      "name": "Ethyl acetate",
+      "formula": "CH₃COOC₂H₅",
+      "difficulty": "hard",
+      "points": 5,
+      "copies": 1,
+      "reactants": [
+        "Ethanol",
+        "Acetic acid"
+      ],
+      "apparatus": [
+        "Reaction flask",
+        "Heating plate"
+      ],
+      "fee": 9,
+      "source": "Rulebook §22, pp22–24"
+    }
+  ],
+  "action": [
+    {
+      "name": "Quick Experiment",
+      "category": "good",
+      "copies": 3,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Perfect Match",
+      "category": "good",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Extra Equipment",
+      "category": "good",
+      "copies": 3,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Chemical Discovery",
+      "category": "good",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Double Yield",
+      "category": "good",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Lucky Reaction",
+      "category": "good",
+      "copies": 3,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Lab Upgrade",
+      "category": "good",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Research Breakthrough",
+      "category": "good",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Card Heist",
+      "category": "attack",
+      "copies": 3,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Reactant Raid",
+      "category": "attack",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Equipment Theft",
+      "category": "attack",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Contamination!",
+      "category": "attack",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Lab Lockdown",
+      "category": "attack",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Failed Experiment",
+      "category": "attack",
+      "copies": 3,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Supply Shortage",
+      "category": "attack",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Stolen Research",
+      "category": "attack",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Safety Goggles",
+      "category": "defence",
+      "copies": 3,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Secure Storage",
+      "category": "defence",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Emergency Backup",
+      "category": "defence",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Counter-Reaction",
+      "category": "defence",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Lab Insurance",
+      "category": "defence",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Chemical Spill",
+      "category": "chaos",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Market Swap",
+      "category": "chaos",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Equipment Recall",
+      "category": "chaos",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Formula Shuffle",
+      "category": "chaos",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Double Reaction",
+      "category": "chaos",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Unexpected Catalyst",
+      "category": "chaos",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Mass Production",
+      "category": "chaos",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    },
+    {
+      "name": "Experiment Reversal",
+      "category": "chaos",
+      "copies": 2,
+      "source": "Rulebook §§13–17; authoritative effects in docs/rulebook-extracted.txt"
+    }
+  ]
+}

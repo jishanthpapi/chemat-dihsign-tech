@@ -1,0 +1,39 @@
+{
+  "verified_at": "2026-11-15T05:19:37.6656465Z",
+  "backend": {
+    "passed": 118,
+    "failed": 0,
+    "skipped": 0
+  },
+  "flutter_regular": {
+    "passed": 6,
+    "failed": 0,
+    "skipped_opt_in_live": 2
+  },
+  "flutter_live": {
+    "passed": 2,
+    "failed": 0,
+    "full_ui_matches": 1,
+    "cleanup_probes": 1
+  },
+  "analyzer": "No issues found",
+  "executed_passes": 126,
+  "coordinator_exit": 0,
+  "lingering_processes": 0,
+  "match_id": "3c353ac6-18c7-4d29-b167-9d3508c64d1c",
+  "final_scores": {
+    "9746afb4-63b3-4cc9-9783-bd726fb79707": 14,
+    "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 5
+  },
+  "ranking_awards": {
+    "9746afb4-63b3-4cc9-9783-bd726fb79707": 30,
+    "ea03a1c0-fba3-4b58-98ba-2353c4ae7359": 15
+  },
+  "identical_client_results": true,
+  "persisted_awards_verified": true,
+  "server_exit_codes": [
+    1,
+    1
+  ],
+  "server_exit_explanation": "Both isolated Uvicorn processes intentionally terminated and waited on Windows: restart and final shutdown. No lingering processes."
+}

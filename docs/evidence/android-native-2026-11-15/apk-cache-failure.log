@@ -1,0 +1,20 @@
+Running Gradle task 'assembleDebug'...
+Target install_code_assets failed: Error: Flutter failed to delete a directory at "C:\Users\jisha\OneDrive\Documents\ChatGPT\chemat dt\mobile\build\app\intermediates\flutter\debug\native_assets\jniLibs". The flutter tool cannot access the file or directory.
+Please ensure that the SDK and/or project is installed in a location that has read/write permissions for the current user.
+
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileFlutterBuildDebug' (registered by plugin 'com.android.internal.application').
+> Process 'command 'C:\Users\jisha\OneDrive\Documents\ChatGPT\chemat dt\.tools\flutter\bin\flutter.bat'' finished with non-zero exit value 1
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights from a Build Scan (powered by Develocity).
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 1m 22s
+Running Gradle task 'assembleDebug'...                             91.8s
+Gradle task assembleDebug failed with exit code 1
